@@ -1,0 +1,464 @@
+chem_index	gene_index	chemName	geneid
+71	0	Butyrates	6566
+11	1	4-(4-(dimethylamino)styryl)-1-methylpyridinium iodide	6581
+144	2	Arsenic Trioxide	366
+51	3	Calcimycin	3569
+55	3	Tetrachlorodibenzodioxin	3569
+149	3	Silicon Dioxide	3569
+154	3	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	3569
+181	3	Mustard Gas	3569
+187	3	sodium arsenite	3569
+36	4	Rifampin	10599
+49	4	Atorvastatin	10599
+55	6	Tetrachlorodibenzodioxin	1728
+66	6	2,6-Dichloroindophenol	1728
+185	6	Benzo(a)pyrene	1728
+144	10	Arsenic Trioxide	5300
+68	13	3-methyladenine	8678
+144	14	Arsenic Trioxide	332
+16	15	15-deoxyprostaglandin J2	5468
+44	17	salinomycin	1890
+9	19	methylmercuric chloride	9241
+70	19	mercuric bromide	9241
+81	19	Mercuric Chloride	9241
+97	19	p-Chloromercuribenzoic Acid	9241
+141	19	Phenylmercuric Acetate	9241
+144	21	Arsenic Trioxide	842
+196	21	benzyloxycarbonyl-leucyl-glutamyl-histidyl-aspartic acid fluoromethyl ketone	842
+154	23	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	1950
+144	24	Arsenic Trioxide	4170
+4	25	Vincristine	4363
+105	25	verlukast	4363
+3	29	Oxidopamine	836
+5	29	Paraquat	836
+14	29	Cadmium Chloride	836
+18	29	tert-Butylhydroperoxide	836
+31	29	benzyloxycarbonyl-valyl-alanyl-aspartic acid	836
+38	29	Cadmium	836
+65	29	cobaltous chloride	836
+68	29	3-methyladenine	836
+124	29	benzoylcarbonyl-aspartyl-glutamyl-valyl-aspartyl-fluoromethyl ketone	836
+144	29	Arsenic Trioxide	836
+149	29	Silicon Dioxide	836
+154	29	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	836
+157	29	benzyloxycarbonyl-isoleucyl-glutamyl-threonyl-aspartic acid fluoromethyl ketone	836
+181	29	Mustard Gas	836
+185	29	Benzo(a)pyrene	836
+187	29	sodium arsenite	836
+55	30	Tetrachlorodibenzodioxin	54658
+185	30	Benzo(a)pyrene	54658
+88	31	Ionomycin	3558
+55	33	Tetrachlorodibenzodioxin	901
+36	38	Rifampin	8856
+164	38	Ketoconazole	8856
+4	39	Vincristine	5243
+8	39	phosalone	5243
+36	39	Rifampin	5243
+123	39	calcein AM	5243
+156	39	Endosulfan	5243
+159	39	propiconazole	5243
+164	39	Ketoconazole	5243
+175	39	quinidinium	5243
+20	42	fluoranthene	196
+37	42	Methylcholanthrene	196
+55	42	Tetrachlorodibenzodioxin	196
+74	42	3,4,5,3',4'-pentachlorobiphenyl	196
+79	42	benz(a)anthracene	196
+87	42	Hexachlorobenzene	196
+103	42	6-formylindolo(3,2-b)carbazole	196
+155	42	pyrene	196
+180	42	benzo(k)fluoranthene	196
+185	42	Benzo(a)pyrene	196
+55	44	Tetrachlorodibenzodioxin	57491
+114	45	aldosterone 18-glucuronide	7364
+39	49	Fatty Acids, Nonesterified	407015
+40	52	bisphenol F	3630
+83	52	triphenyl phosphate	3630
+93	52	bis(4-hydroxyphenyl)sulfone	3630
+187	52	sodium arsenite	3630
+65	54	cobaltous chloride	2034
+131	55	8-Bromo Cyclic Adenosine Monophosphate	5617
+60	58	epicatechin gallate	406
+102	58	gallocatechol	406
+94	61	lithocholic acid acetate	1591
+55	63	Tetrachlorodibenzodioxin	5241
+18	66	tert-Butylhydroperoxide	23643
+6	67	auriculasin	8743
+31	67	benzyloxycarbonyl-valyl-alanyl-aspartic acid	8743
+144	67	Arsenic Trioxide	8743
+54	69	1,3-bis(4-hydroxyphenyl)-4-methyl-5-(4-(2-piperidinylethoxy)phenol)-1H-pyrazole	7040
+55	69	Tetrachlorodibenzodioxin	7040
+84	69	melamine	7040
+144	69	Arsenic Trioxide	7040
+149	69	Silicon Dioxide	7040
+94	71	lithocholic acid acetate	7421
+36	73	Rifampin	1555
+185	77	Benzo(a)pyrene	3479
+5	79	Paraquat	6622
+17	86	Arsenic	57412
+101	86	arsenite	57412
+144	87	Arsenic Trioxide	574444
+187	90	sodium arsenite	406947
+187	91	sodium arsenite	10498
+144	93	Arsenic Trioxide	7015
+100	96	Hemin	3043
+36	98	Rifampin	8648
+144	104	Arsenic Trioxide	6657
+14	105	Cadmium Chloride	834
+144	106	Arsenic Trioxide	581
+187	106	sodium arsenite	581
+5	107	Paraquat	4780
+90	107	shogaol	4780
+101	107	arsenite	4780
+117	107	nickel acetate	4780
+144	107	Arsenic Trioxide	4780
+154	107	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	4780
+163	107	salvin	4780
+167	107	benzyloxycarbonylleucyl-leucyl-leucine aldehyde	4780
+185	107	Benzo(a)pyrene	4780
+187	107	sodium arsenite	4780
+144	109	Arsenic Trioxide	2353
+154	109	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	2353
+187	109	sodium arsenite	2353
+164	111	Ketoconazole	1592
+191	112	ethyl (5-(diethylglycyl)-10,11-dihydro-5H-dibenzo(b,f)azepin-3-yl)carbamate	9970
+2	116	9,10-Dimethyl-1,2-benzanthracene	1543
+37	116	Methylcholanthrene	1543
+55	116	Tetrachlorodibenzodioxin	1543
+74	116	3,4,5,3',4'-pentachlorobiphenyl	1543
+78	116	2-methyl-2H-pyrazole-3-carboxylic acid (2-methyl-4-o-tolylazophenyl)amide	1543
+79	116	benz(a)anthracene	1543
+96	116	3'-methoxy-4'-nitroflavone	1543
+103	116	6-formylindolo(3,2-b)carbazole	1543
+180	116	benzo(k)fluoranthene	1543
+185	116	Benzo(a)pyrene	1543
+187	116	sodium arsenite	1543
+14	117	Cadmium Chloride	3725
+144	117	Arsenic Trioxide	3725
+187	117	sodium arsenite	3725
+80	118	Raloxifene Hydrochloride	2100
+58	119	glycylsarcosine	6564
+145	120	Hyaluronic Acid	2033
+94	124	lithocholic acid acetate	6256
+55	125	Tetrachlorodibenzodioxin	3169
+10	126	Aflatoxin B1	1576
+13	126	7-benzyloxy-4-trifluoromethylcoumarin	1576
+26	126	4-hydroxymidazolam	1576
+36	126	Rifampin	1576
+156	126	Endosulfan	1576
+164	126	Ketoconazole	1576
+100	127	Hemin	3145
+144	128	Arsenic Trioxide	596
+55	130	Tetrachlorodibenzodioxin	4312
+154	130	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	4312
+184	132	1-(4-ethynylphenyl)-4-propyl-2,6,7-trioxabicyclo(2.2.2)octane	2561
+5	136	Paraquat	7471
+10	137	Aflatoxin B1	7157
+14	137	Cadmium Chloride	7157
+17	137	Arsenic	7157
+32	137	chromium hexavalent ion	7157
+47	137	fatostatin	7157
+55	137	Tetrachlorodibenzodioxin	7157
+65	137	cobaltous chloride	7157
+86	137	leptomycin B	7157
+101	137	arsenite	7157
+142	137	1-nitropyrene	7157
+144	137	Arsenic Trioxide	7157
+166	137	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	7157
+185	137	Benzo(a)pyrene	7157
+187	137	sodium arsenite	7157
+14	143	Cadmium Chloride	207
+144	143	Arsenic Trioxide	207
+187	143	sodium arsenite	207
+68	145	3-methyladenine	81631
+134	145	bafilomycin A1	81631
+144	148	Arsenic Trioxide	2932
+25	149	2,5,7,8-tetramethyl-2R-(4R,8R,12-trimethyltridecyl)chroman-6-yloxy acetic acid	25
+115	150	Poly I-C	7098
+115	152	Poly I-C	6352
+74	155	3,4,5,3',4'-pentachlorobiphenyl	5315
+55	156	Tetrachlorodibenzodioxin	1588
+118	156	o,p'-DDT	1588
+144	157	Arsenic Trioxide	5914
+14	158	Cadmium Chloride	3576
+18	158	tert-Butylhydroperoxide	3576
+27	158	Antimycin A	3576
+51	158	Calcimycin	3576
+55	158	Tetrachlorodibenzodioxin	3576
+65	158	cobaltous chloride	3576
+115	158	Poly I-C	3576
+144	158	Arsenic Trioxide	3576
+152	158	deoxynivalenol	3576
+154	158	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	3576
+179	158	Oligomycins	3576
+181	158	Mustard Gas	3576
+185	158	Benzo(a)pyrene	3576
+187	158	sodium arsenite	3576
+144	159	Arsenic Trioxide	598
+51	161	Calcimycin	240
+178	162	Lead	210
+14	163	Cadmium Chloride	595
+144	163	Arsenic Trioxide	595
+187	163	sodium arsenite	595
+14	165	Cadmium Chloride	7494
+187	165	sodium arsenite	7494
+65	166	cobaltous chloride	2056
+55	168	Tetrachlorodibenzodioxin	25976
+36	171	Rifampin	3172
+94	171	lithocholic acid acetate	3172
+11	172	4-(4-(dimethylamino)styryl)-1-methylpyridinium iodide	6582
+146	172	4-(4-dimethylaminostyryl)-1-methylpyridinium	6582
+5	176	Paraquat	6647
+82	177	3-(6-isobutyl-9-methoxy-1,4-dioxo-1,2,3,4,6,7,12,12a-octahydropyrazino(1',2'-1,6)pyrido(3,4-b)indol-3-yl)propionic acid tert-butyl ester	9429
+148	180	Methylnitronitrosoguanidine	1871
+144	184	Arsenic Trioxide	8878
+187	184	sodium arsenite	8878
+148	186	Methylnitronitrosoguanidine	6241
+14	194	Cadmium Chloride	999
+144	194	Arsenic Trioxide	999
+101	204	arsenite	9817
+144	204	Arsenic Trioxide	9817
+28	205	5(6)-carboxy-2',7'-dichlorofluorescein	1244
+105	205	verlukast	1244
+187	206	sodium arsenite	3297
+178	207	Lead	351
+31	210	benzyloxycarbonyl-valyl-alanyl-aspartic acid	142
+68	210	3-methyladenine	142
+101	210	arsenite	142
+144	210	Arsenic Trioxide	142
+187	210	sodium arsenite	142
+187	213	sodium arsenite	2002
+126	214	Sodium Selenite	7296
+51	215	Calcimycin	3565
+115	215	Poly I-C	3565
+164	215	Ketoconazole	3565
+177	215	Itraconazole	3565
+14	217	Cadmium Chloride	367
+93	217	bis(4-hydroxyphenyl)sulfone	367
+128	217	4,4'-hexafluorisopropylidene diphenol	367
+140	217	vinclozolin	367
+169	217	Methoxychlor	367
+174	217	Dichlorodiphenyl Dichloroethylene	367
+185	217	Benzo(a)pyrene	367
+10	218	Aflatoxin B1	1553
+111	218	4-(N-methyl-N-nitrosamino)-1-(3-pyridyl)-1-butanone	1553
+30	219	Dimethylnitrosamine	1571
+104	219	Styrene	1571
+197	219	Benzene	1571
+35	220	Miransertib	356
+110	220	2-amino-6-chloro-alpha-cyano-3-(ethoxycarbonyl)-4H-1-benzopyran-4-acetic acid ethyl ester	356
+198	222	Acetylmuramyl-Alanyl-Isoglutamine	64127
+55	224	Tetrachlorodibenzodioxin	405
+185	224	Benzo(a)pyrene	405
+187	231	sodium arsenite	654
+50	234	dibromoacetonitrile	4353
+72	234	5,5-dimethyl-1-pyrroline-1-oxide	4353
+144	238	Arsenic Trioxide	8795
+25	239	2,5,7,8-tetramethyl-2R-(4R,8R,12-trimethyltridecyl)chroman-6-yloxy acetic acid	10413
+115	240	Poly I-C	85480
+88	242	Ionomycin	3458
+2	243	9,10-Dimethyl-1,2-benzanthracene	1545
+55	243	Tetrachlorodibenzodioxin	1545
+185	243	Benzo(a)pyrene	1545
+185	245	Benzo(a)pyrene	4193
+144	246	Arsenic Trioxide	4792
+64	249	manganese(III)-tetrakis(4-benzoic acid)porphyrin	2335
+187	250	sodium arsenite	8290
+194	250	monomethylarsonous acid	8290
+187	252	sodium arsenite	3383
+181	255	Mustard Gas	3586
+152	256	deoxynivalenol	467
+17	258	Arsenic	652995
+187	259	sodium arsenite	3934
+144	261	Arsenic Trioxide	841
+157	261	benzyloxycarbonyl-isoleucyl-glutamyl-threonyl-aspartic acid fluoromethyl ketone	841
+21	263	pralidoxime	590
+112	263	tabun	590
+199	263	Sarin	590
+55	266	Tetrachlorodibenzodioxin	1026
+144	266	Arsenic Trioxide	1026
+154	266	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	1026
+185	266	Benzo(a)pyrene	1026
+187	266	sodium arsenite	1026
+47	267	fatostatin	6720
+22	268	furafylline	1544
+55	268	Tetrachlorodibenzodioxin	1544
+113	268	Clozapine	1544
+162	268	2-amino-3,8-dimethylimidazo(4,5-f)quinoxaline	1544
+185	268	Benzo(a)pyrene	1544
+19	269	methylselenic acid	3309
+115	271	Poly I-C	3665
+94	274	lithocholic acid acetate	1581
+144	275	Arsenic Trioxide	5601
+38	276	Cadmium	4318
+42	276	FSL-1 lipoprotein, synthetic	4318
+144	276	Arsenic Trioxide	4318
+154	276	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	4318
+187	276	sodium arsenite	4318
+61	277	5-iodo-3-(2-azetidinylmethoxy)pyridine	1141
+14	279	Cadmium Chloride	23411
+5	280	Paraquat	7124
+24	280	alpinetin	7124
+48	280	deguelin	7124
+49	280	Atorvastatin	7124
+51	280	Calcimycin	7124
+63	280	evodiamine	7124
+78	280	2-methyl-2H-pyrazole-3-carboxylic acid (2-methyl-4-o-tolylazophenyl)amide	7124
+79	280	benz(a)anthracene	7124
+92	280	Diosgenin	7124
+103	280	6-formylindolo(3,2-b)carbazole	7124
+107	280	Tosyllysine Chloromethyl Ketone	7124
+115	280	Poly I-C	7124
+122	280	Asbestos, Crocidolite	7124
+144	280	Arsenic Trioxide	7124
+149	280	Silicon Dioxide	7124
+151	280	anacardic acid	7124
+154	280	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	7124
+164	280	Ketoconazole	7124
+167	280	benzyloxycarbonylleucyl-leucyl-leucine aldehyde	7124
+181	280	Mustard Gas	7124
+187	280	sodium arsenite	7124
+190	280	cyanidin 3-O-glucoside	7124
+192	280	zinc protoporphyrin	7124
+193	280	prolinedithiocarbamate	7124
+144	285	Arsenic Trioxide	2688
+0	287	Diquat	5447
+5	287	Paraquat	5447
+14	288	Cadmium Chloride	1270
+81	288	Mercuric Chloride	1270
+106	292	Toluene 2,4-Diisocyanate	213
+131	293	8-Bromo Cyclic Adenosine Monophosphate	3484
+33	294	oridonin	6774
+187	294	sodium arsenite	6774
+77	296	dihydroartemisinin	9971
+1	299	diphenyleneiodonium	3553
+14	299	Cadmium Chloride	3553
+18	299	tert-Butylhydroperoxide	3553
+51	299	Calcimycin	3553
+55	299	Tetrachlorodibenzodioxin	3553
+122	299	Asbestos, Crocidolite	3553
+147	299	tyrosyl-valyl-alanyl-aspartic acid fluoromethyl ketone	3553
+149	299	Silicon Dioxide	3553
+154	299	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	3553
+179	299	Oligomycins	3553
+185	299	Benzo(a)pyrene	3553
+187	299	sodium arsenite	3553
+144	300	Arsenic Trioxide	1649
+14	303	Cadmium Chloride	4609
+144	303	Arsenic Trioxide	4609
+130	305	fenofibric acid	5465
+138	305	perfluorooctanoic acid	5465
+34	306	casticin	406940
+65	309	cobaltous chloride	1906
+168	309	BQ 788	1906
+73	313	ICG 001	183
+5	315	Paraquat	6648
+23	316	Nickel	7422
+55	316	Tetrachlorodibenzodioxin	7422
+65	316	cobaltous chloride	7422
+154	316	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	7422
+187	316	sodium arsenite	7422
+144	319	Arsenic Trioxide	7050
+25	320	2,5,7,8-tetramethyl-2R-(4R,8R,12-trimethyltridecyl)chroman-6-yloxy acetic acid	7161
+54	323	1,3-bis(4-hydroxyphenyl)-4-methyl-5-(4-(2-piperidinylethoxy)phenol)-1H-pyrazole	2488
+126	324	Sodium Selenite	2879
+187	325	sodium arsenite	1386
+127	327	Thallium	3757
+144	327	Arsenic Trioxide	3757
+144	329	Arsenic Trioxide	331
+14	331	Cadmium Chloride	2309
+14	337	Cadmium Chloride	2099
+38	337	Cadmium	2099
+53	337	nonylphenol	2099
+55	337	Tetrachlorodibenzodioxin	2099
+80	337	Raloxifene Hydrochloride	2099
+93	337	bis(4-hydroxyphenyl)sulfone	2099
+95	337	16 alpha-iodoestradiol	2099
+128	337	4,4'-hexafluorisopropylidene diphenol	2099
+144	337	Arsenic Trioxide	2099
+169	337	Methoxychlor	2099
+185	337	Benzo(a)pyrene	2099
+145	338	Hyaluronic Acid	960
+161	340	methyllycaconitine	1139
+145	341	Hyaluronic Acid	1499
+144	342	Arsenic Trioxide	637
+14	343	Cadmium Chloride	5594
+38	343	Cadmium	5594
+43	343	4-(6-bromo-1,3-benzodioxol-5-yl)-3a,4,5,9b-3H-cyclopenta(c)quinoline	5594
+55	343	Tetrachlorodibenzodioxin	5594
+144	343	Arsenic Trioxide	5594
+154	343	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	5594
+185	343	Benzo(a)pyrene	5594
+187	343	sodium arsenite	5594
+144	344	Arsenic Trioxide	1432
+5	345	Paraquat	3162
+14	345	Cadmium Chloride	3162
+38	345	Cadmium	3162
+80	345	Raloxifene Hydrochloride	3162
+100	345	Hemin	3162
+144	345	Arsenic Trioxide	3162
+154	345	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	3162
+165	345	tricarbonyldichlororuthenium (II) dimer	3162
+187	345	sodium arsenite	3162
+192	345	zinc protoporphyrin	3162
+187	346	sodium arsenite	5728
+187	350	sodium arsenite	1977
+144	355	Arsenic Trioxide	5371
+34	359	casticin	1786
+55	360	Tetrachlorodibenzodioxin	1509
+14	362	Cadmium Chloride	5595
+38	362	Cadmium	5595
+43	362	4-(6-bromo-1,3-benzodioxol-5-yl)-3a,4,5,9b-3H-cyclopenta(c)quinoline	5595
+144	362	Arsenic Trioxide	5595
+154	362	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	5595
+185	362	Benzo(a)pyrene	5595
+187	362	sodium arsenite	5595
+187	363	sodium arsenite	3276
+55	364	Tetrachlorodibenzodioxin	7031
+154	367	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	5604
+14	369	Cadmium Chloride	3091
+23	369	Nickel	3091
+65	369	cobaltous chloride	3091
+167	369	benzyloxycarbonylleucyl-leucyl-leucine aldehyde	3091
+187	369	sodium arsenite	3091
+14	370	Cadmium Chloride	1956
+89	370	Erlotinib Hydrochloride	1956
+122	370	Asbestos, Crocidolite	1956
+144	370	Arsenic Trioxide	1956
+187	370	sodium arsenite	1956
+101	371	arsenite	5970
+144	371	Arsenic Trioxide	5970
+145	371	Hyaluronic Acid	5970
+167	371	benzyloxycarbonylleucyl-leucyl-leucine aldehyde	5970
+187	371	sodium arsenite	5970
+189	371	zerumbone	5970
+55	373	Tetrachlorodibenzodioxin	5055
+49	375	Atorvastatin	387
+144	376	Arsenic Trioxide	5599
+5	377	Paraquat	847
+187	377	sodium arsenite	847
+55	379	Tetrachlorodibenzodioxin	5743
+65	379	cobaltous chloride	5743
+143	379	lead nitrate	5743
+144	379	Arsenic Trioxide	5743
+154	379	2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	5743
+187	379	sodium arsenite	5743
+144	382	Arsenic Trioxide	4440
+185	384	Benzo(a)pyrene	8505
+55	385	Tetrachlorodibenzodioxin	672
+185	385	Benzo(a)pyrene	672
+14	386	Cadmium Chloride	114548
+184	388	1-(4-ethynylphenyl)-4-propyl-2,6,7-trioxabicyclo(2.2.2)octane	2566
+7	389	methamidophos	43
+12	389	asoxime chloride	43
+15	389	Dichlorvos	43
+21	389	pralidoxime	43
+41	389	HLo 7	43
+91	389	cyclohexyl methylphosphonofluoridate	43
+108	389	Soman	43
+112	389	tabun	43
+172	389	Obidoxime Chloride	43
+176	389	VX	43
+182	389	N,N'-monomethylenebis(pyridiniumaldoxime)	43
+199	389	Sarin	43
+144	396	Arsenic Trioxide	4313

@@ -1,0 +1,200 @@
+Diquat	0
+diphenyleneiodonium	1
+9,10-Dimethyl-1,2-benzanthracene	2
+Oxidopamine	3
+Vincristine	4
+Paraquat	5
+auriculasin	6
+methamidophos	7
+phosalone	8
+methylmercuric chloride	9
+Aflatoxin B1	10
+4-(4-(dimethylamino)styryl)-1-methylpyridinium iodide	11
+asoxime chloride	12
+7-benzyloxy-4-trifluoromethylcoumarin	13
+Cadmium Chloride	14
+Dichlorvos	15
+15-deoxyprostaglandin J2	16
+Arsenic	17
+tert-Butylhydroperoxide	18
+methylselenic acid	19
+fluoranthene	20
+pralidoxime	21
+furafylline	22
+Nickel	23
+alpinetin	24
+2,5,7,8-tetramethyl-2R-(4R,8R,12-trimethyltridecyl)chroman-6-yloxy acetic acid	25
+4-hydroxymidazolam	26
+Antimycin A	27
+5(6)-carboxy-2',7'-dichlorofluorescein	28
+methyl formate	29
+Dimethylnitrosamine	30
+benzyloxycarbonyl-valyl-alanyl-aspartic acid	31
+chromium hexavalent ion	32
+oridonin	33
+casticin	34
+Miransertib	35
+Rifampin	36
+Methylcholanthrene	37
+Cadmium	38
+Fatty Acids, Nonesterified	39
+bisphenol F	40
+HLo 7	41
+FSL-1 lipoprotein, synthetic	42
+4-(6-bromo-1,3-benzodioxol-5-yl)-3a,4,5,9b-3H-cyclopenta(c)quinoline	43
+salinomycin	44
+Methylenebis(chloroaniline)	45
+Zineb	46
+fatostatin	47
+deguelin	48
+Atorvastatin	49
+dibromoacetonitrile	50
+Calcimycin	51
+N-methylacetamide	52
+nonylphenol	53
+1,3-bis(4-hydroxyphenyl)-4-methyl-5-(4-(2-piperidinylethoxy)phenol)-1H-pyrazole	54
+Tetrachlorodibenzodioxin	55
+phenoxyethanol	56
+Sodium Benzoate	57
+glycylsarcosine	58
+butyraldehyde	59
+epicatechin gallate	60
+5-iodo-3-(2-azetidinylmethoxy)pyridine	61
+cyclohexanecarboxylic acid	62
+evodiamine	63
+manganese(III)-tetrakis(4-benzoic acid)porphyrin	64
+cobaltous chloride	65
+2,6-Dichloroindophenol	66
+glycerin monoallyl ether	67
+3-methyladenine	68
+6-O-palmitoylascorbic acid	69
+mercuric bromide	70
+Butyrates	71
+5,5-dimethyl-1-pyrroline-1-oxide	72
+ICG 001	73
+3,4,5,3',4'-pentachlorobiphenyl	74
+hydramethylnon	75
+5-ethylidene-2-norbornene	76
+dihydroartemisinin	77
+2-methyl-2H-pyrazole-3-carboxylic acid (2-methyl-4-o-tolylazophenyl)amide	78
+benz(a)anthracene	79
+Raloxifene Hydrochloride	80
+Mercuric Chloride	81
+3-(6-isobutyl-9-methoxy-1,4-dioxo-1,2,3,4,6,7,12,12a-octahydropyrazino(1',2'-1,6)pyrido(3,4-b)indol-3-yl)propionic acid tert-butyl ester	82
+triphenyl phosphate	83
+melamine	84
+Piperonyl Butoxide	85
+leptomycin B	86
+Hexachlorobenzene	87
+Ionomycin	88
+Erlotinib Hydrochloride	89
+shogaol	90
+cyclohexyl methylphosphonofluoridate	91
+Diosgenin	92
+bis(4-hydroxyphenyl)sulfone	93
+lithocholic acid acetate	94
+16 alpha-iodoestradiol	95
+3'-methoxy-4'-nitroflavone	96
+p-Chloromercuribenzoic Acid	97
+dicrotophos	98
+pebulate	99
+Hemin	100
+arsenite	101
+gallocatechol	102
+6-formylindolo(3,2-b)carbazole	103
+Styrene	104
+verlukast	105
+Toluene 2,4-Diisocyanate	106
+Tosyllysine Chloromethyl Ketone	107
+Soman	108
+bisphenol S	109
+2-amino-6-chloro-alpha-cyano-3-(ethoxycarbonyl)-4H-1-benzopyran-4-acetic acid ethyl ester	110
+4-(N-methyl-N-nitrosamino)-1-(3-pyridyl)-1-butanone	111
+tabun	112
+Clozapine	113
+aldosterone 18-glucuronide	114
+Poly I-C	115
+tert-butyl acetate	116
+nickel acetate	117
+o,p'-DDT	118
+Edetic Acid	119
+3-cresol	120
+tris(1,3-dichloro-2-propyl)phosphate	121
+Asbestos, Crocidolite	122
+calcein AM	123
+benzoylcarbonyl-aspartyl-glutamyl-valyl-aspartyl-fluoromethyl ketone	124
+brominated soya oil	125
+Sodium Selenite	126
+Thallium	127
+4,4'-hexafluorisopropylidene diphenol	128
+Methyl Methanesulfonate	129
+fenofibric acid	130
+8-Bromo Cyclic Adenosine Monophosphate	131
+lithium fluoride	132
+Mitomycin	133
+bafilomycin A1	134
+Argon	135
+n-butyl glycidyl ether	136
+vermiculite	137
+perfluorooctanoic acid	138
+aluminum magnesium silicate	139
+vinclozolin	140
+Phenylmercuric Acetate	141
+1-nitropyrene	142
+lead nitrate	143
+Arsenic Trioxide	144
+Hyaluronic Acid	145
+4-(4-dimethylaminostyryl)-1-methylpyridinium	146
+tyrosyl-valyl-alanyl-aspartic acid fluoromethyl ketone	147
+Methylnitronitrosoguanidine	148
+Silicon Dioxide	149
+potassium chromate(VI)	150
+anacardic acid	151
+deoxynivalenol	152
+2-tert-butyl-4-methylphenol	153
+2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	154
+pyrene	155
+Endosulfan	156
+benzyloxycarbonyl-isoleucyl-glutamyl-threonyl-aspartic acid fluoromethyl ketone	157
+Glycerol	158
+propiconazole	159
+Caprolactam	160
+methyllycaconitine	161
+2-amino-3,8-dimethylimidazo(4,5-f)quinoxaline	162
+salvin	163
+Ketoconazole	164
+tricarbonyldichlororuthenium (II) dimer	165
+7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	166
+benzyloxycarbonylleucyl-leucyl-leucine aldehyde	167
+BQ 788	168
+Methoxychlor	169
+hectorite	170
+2-chlorophenol	171
+Obidoxime Chloride	172
+dinonylphthalate	173
+Dichlorodiphenyl Dichloroethylene	174
+quinidinium	175
+VX	176
+Itraconazole	177
+Lead	178
+Oligomycins	179
+benzo(k)fluoranthene	180
+Mustard Gas	181
+N,N'-monomethylenebis(pyridiniumaldoxime)	182
+benzo(e)pyrene	183
+1-(4-ethynylphenyl)-4-propyl-2,6,7-trioxabicyclo(2.2.2)octane	184
+Benzo(a)pyrene	185
+abrine	186
+sodium arsenite	187
+3-hydroxy-2-naphthoic acid	188
+zerumbone	189
+cyanidin 3-O-glucoside	190
+ethyl (5-(diethylglycyl)-10,11-dihydro-5H-dibenzo(b,f)azepin-3-yl)carbamate	191
+zinc protoporphyrin	192
+prolinedithiocarbamate	193
+monomethylarsonous acid	194
+bisphenol A	195
+benzyloxycarbonyl-leucyl-glutamyl-histidyl-aspartic acid fluoromethyl ketone	196
+Benzene	197
+Acetylmuramyl-Alanyl-Isoglutamine	198
+Sarin	199
