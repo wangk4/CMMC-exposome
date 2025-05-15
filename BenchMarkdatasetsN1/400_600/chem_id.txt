@@ -1,0 +1,400 @@
+Rifampin	0
+Sarin	1
+methylselenic acid	2
+benzyloxycarbonyl-valyl-alanyl-aspartic acid	3
+5-ethylidene-2-norbornene	4
+11-aminoundecanoic acid	5
+casticin	6
+Polyvinyl Alcohol	7
+diisononyl phthalate	8
+1-(2-hydroxyethyl)-6-((2,2-dicyano)vinyl)-2,3,4-trihydroquinoline	9
+Diosgenin	10
+glyceryl monothioglycolate	11
+uranium octoxide	12
+dicrotophos	13
+deoxynivalenol	14
+Hexachlorobenzene	15
+bis(tert-butoxycarbonyl)oxide	16
+HLo 7	17
+decanoic acid	18
+3-cresol	19
+gluconic acid	20
+asoxime chloride	21
+Edetic Acid	22
+epicatechin gallate	23
+Atorvastatin	24
+Benzene	25
+monoolein	26
+potassium phosphite	27
+Cadaverine	28
+salvin	29
+Caprolactam	30
+auriculasin	31
+1-methylnaphthalene	32
+3,4,5,3',4'-pentachlorobiphenyl	33
+dichloroethylaluminum	34
+cyanogen chloride	35
+tetralin	36
+3,4-toluenediamine	37
+tris(1,3-dichloro-2-propyl)phosphate	38
+Dimethylnitrosamine	39
+manganese carbonate	40
+stannic oxide	41
+phosalone	42
+2,3,5,2',3',5'-hexachlorobiphenyl	43
+methyl formate	44
+Sodium Selenite	45
+starlicide	46
+n-butoxy-2-propanol	47
+9-fluorenone	48
+Sodium Benzoate	49
+Diethylhexyl Phthalate	50
+1-amino-2-methylanthraquinone	51
+bis(4-hydroxyphenyl)sulfone	52
+ethyl propionate	53
+BQ 788	54
+Methylcholanthrene	55
+dihydro-isophorone	56
+lead carbonate	57
+melamine	58
+Girard's reagent T	59
+2,5-dimercapto-1,3,4-thiadiazole	60
+dibromoacetonitrile	61
+2,2'-thiodiethanol	62
+Dichlorvos	63
+phthalimide	64
+lithium sulfate	65
+lithium fluoride	66
+Methyl Methanesulfonate	67
+manganese sulfate	68
+8-Bromo Cyclic Adenosine Monophosphate	69
+Isotretinoin	70
+Cadmium Chloride	71
+Aspirin	72
+mercuric bromide	73
+methyl 2-(((((4-ethoxy-6-(methylamino)-1,3,5-triazin-2-yl)amino)carbonyl)amino)sulfonyl)benzoate	74
+AS resin	75
+calcium carbide	76
+ICG 001	77
+di-n-octyl phthalate	78
+Soman	79
+ligroin	80
+4-vinylphenol	81
+dilactide	82
+ferric oxide	83
+1,3-dichloropropane	84
+2,2-dimethylthiazolidine	85
+cyclohexanecarboxylic acid	86
+brominated soya oil	87
+2,2',3,5,5',6-hexachlorobiphenyl	88
+1,3,5-tris(trifluoropropyl)trimethylcyclotrisiloxane	89
+Glycerol	90
+vermiculite	91
+quaternium-15	92
+2,6-Dichloroindophenol	93
+D.C. Red No. 33	94
+trichlorobenzene	95
+benzyloxycarbonyl-leucyl-glutamyl-histidyl-aspartic acid fluoromethyl ketone	96
+polytetramethylene glycol	97
+butyraldehyde	98
+Glutamic Acid	99
+pendimethalin	100
+Pentaerythritol Tetranitrate	101
+2-amino-4-methylphenol	102
+1,5,9-cyclododecatriene	103
+Toluene 2,4-Diisocyanate	104
+cobaltous chloride	105
+methamidophos	106
+Cadmium	107
+4-methylmorpholine	108
+deguelin	109
+dioctyl adipate	110
+5(6)-carboxy-2',7'-dichlorofluorescein	111
+dinonylphthalate	112
+Manganese	113
+tert-butyl acetate	114
+aluminum sulfate	115
+leptomycin B	116
+4-(6-bromo-1,3-benzodioxol-5-yl)-3a,4,5,9b-3H-cyclopenta(c)quinoline	117
+3'-methoxy-4'-nitroflavone	118
+Poly I-C	119
+calcein AM	120
+3-aminopyridine	121
+2,3,4-trichloro-1-butene	122
+disilver oxide	123
+Paraquat	124
+5-iodo-3-(2-azetidinylmethoxy)pyridine	125
+propiconazole	126
+7-benzyloxy-4-trifluoromethylcoumarin	127
+4-(N-methyl-N-nitrosamino)-1-(3-pyridyl)-1-butanone	128
+resorcinol	129
+Arsenic Trioxide	130
+diisooctyl phthalate	131
+6-formylindolo(3,2-b)carbazole	132
+Platinum	133
+sec-butylbenzene	134
+4-Butyrolactone	135
+tert-Butylhydroperoxide	136
+Oxidopamine	137
+N-methyldiethanolamine	138
+fenugreek seed meal	139
+2-methyl-3-butyn-2-ol	140
+Trichloroacetic Acid	141
+Trichloroethylene	142
+glycylsarcosine	143
+dibutyl dithiophosphate	144
+hydramethylnon	145
+2-oxopropanal-1-oxime	146
+chlorobenzilate	147
+benzyloxycarbonyl-isoleucyl-glutamyl-threonyl-aspartic acid fluoromethyl ketone	148
+Miransertib	149
+Ionomycin	150
+octadecane-1,18-dioic acid	151
+Phenylmercuric Acetate	152
+6-O-palmitoylascorbic acid	153
+andalusite	154
+Diquat	155
+furafylline	156
+Nickel	157
+1,3-bis(4-hydroxyphenyl)-4-methyl-5-(4-(2-piperidinylethoxy)phenol)-1H-pyrazole	158
+5,5-dimethyl-1-pyrroline-1-oxide	159
+chrome rutile yellow	160
+N,N'-monomethylenebis(pyridiniumaldoxime)	161
+methylmercuric chloride	162
+o,p'-DDT	163
+Allantoin	164
+p-Chloromercuribenzoic Acid	165
+anacardic acid	166
+catechol	167
+Mitomycin	168
+2-ethylhexyl acetate	169
+2,2,4-trimethyl-1,3-pentanediol diisobutyrate	170
+alpinetin	171
+Silicon Dioxide	172
+stachyose	173
+cyclohexene	174
+resorcinol monobenzoate	175
+Tetrachlorodibenzodioxin	176
+N-methylacetamide	177
+Chlorpyrifos	178
+bisphenol S	179
+gallocatechol	180
+estragole	181
+3-phenylenediamine	182
+DEET	183
+2-tert-butyl-4-methylphenol	184
+azobis(isobutyronitrile)	185
+Oligomycins	186
+methylamine	187
+sodium molybdate(VI)	188
+Cobalt	189
+melamine cyanurate	190
+2,3,3',4',6-pentachlorobiphenyl	191
+2-methoxynaphthalene	192
+2-tolylbiguanide	193
+16 alpha-iodoestradiol	194
+4-chloroaniline	195
+2-tert-butylhydroquinone	196
+nigrosin	197
+polybutene	198
+Piperonyl Butoxide	199
+dichlorodiphenylsilane	200
+diketene	201
+methylheptenone	202
+Lanthanum	203
+Zineb	204
+pralidoxime	205
+quinidinium	206
+diphenyleneiodonium	207
+tetrahydrofuran	208
+4-nitrobenzyl chloride	209
+bisphenol F	210
+chloropalladosamine	211
+diisopropanolamine	212
+chromium hexavalent ion	213
+Itraconazole	214
+4-(4-(dimethylamino)styryl)-1-methylpyridinium iodide	215
+pyrazon	216
+tabun	217
+bafilomycin A1	218
+4-hydroxymidazolam	219
+fluoranthene	220
+lime	221
+phenoxyethanol	222
+Water	223
+salinomycin	224
+2-isocyanatoethyl methacrylate	225
+Vanadium	226
+captafol	227
+1,1,1,2-tetrafluoro-2-chloroethane	228
+Ethyl Methanesulfonate	229
+ethyl lactate	230
+zinc protoporphyrin	231
+monoacetin	232
+Paraffin	233
+Arsenic	234
+nanoplast	235
+Sodium Cyanide	236
+C.I. reactive yellow 145	237
+potassium chromate(VI)	238
+Methylenebis(chloroaniline)	239
+n-butyl glycidyl ether	240
+2-hydroxypropyl starch	241
+2,5,7,8-tetramethyl-2R-(4R,8R,12-trimethyltridecyl)chroman-6-yloxy acetic acid	242
+shogaol	243
+texapon TH	244
+Erlotinib Hydrochloride	245
+Clozapine	246
+2-hydroxyethyl carbamate	247
+bromoxynil octanoate	248
+manganese(III)-tetrakis(4-benzoic acid)porphyrin	249
+Raloxifene Hydrochloride	250
+bisphenol A	251
+15-deoxyprostaglandin J2	252
+3,3,5-trimethylcyclohexanol	253
+1,3-dimethylurea	254
+3-(6-isobutyl-9-methoxy-1,4-dioxo-1,2,3,4,6,7,12,12a-octahydropyrazino(1',2'-1,6)pyrido(3,4-b)indol-3-yl)propionic acid tert-butyl ester	255
+oridonin	256
+hexamethylsilazane	257
+aluminum magnesium silicate	258
+Calcimycin	259
+isobutylmethylcarbinol	260
+aldosterone 18-glucuronide	261
+2-butyne-1,4-diol	262
+arsenite	263
+Diatomaceous Earth	264
+1,2-dihydro-2,2,4-trimethylquinoline	265
+nonylphenol	266
+Tosyllysine Chloromethyl Ketone	267
+dihydroartemisinin	268
+FSL-1 lipoprotein, synthetic	269
+polymethacrylic acid	270
+fatostatin	271
+Ammonium Sulfate	272
+uranium tetrafluoride	273
+evodiamine	274
+Mercuric Chloride	275
+Antimycin A	276
+3-methyladenine	277
+fenvalerate	278
+Argon	279
+Aflatoxin B1	280
+Sodium Salicylate	281
+Nitric Oxide	282
+tributylamine	283
+2-Methyl-4-chlorophenoxyacetic Acid	284
+nickel acetate	285
+sudan red	286
+Fatty Acids, Nonesterified	287
+benz(a)anthracene	288
+dioctyltin maleate	289
+chloropicrin	290
+dibutyl ether	291
+triphenyl phosphate	292
+lithocholic acid acetate	293
+Vincristine	294
+isoquinoline	295
+pebulate	296
+Sesame Oil	297
+5-chloro-2-methyl-4-isothiazolin-3-one	298
+2-methyl-2H-pyrazole-3-carboxylic acid (2-methyl-4-o-tolylazophenyl)amide	299
+cyclohexyl methylphosphonofluoridate	300
+Hydroxylamine	301
+4-octylphenol	302
+Butyrates	303
+diatomite	304
+Hemin	305
+benzo(e)pyrene	306
+triethyl phosphite	307
+Ethylnitrosourea	308
+verlukast	309
+Florisil	310
+methylene bromide	311
+N-ethylbenzenamine	312
+2-amino-6-chloro-alpha-cyano-3-(ethoxycarbonyl)-4H-1-benzopyran-4-acetic acid ethyl ester	313
+Malathion	314
+Thallium	315
+Styrene	316
+n-propyl disulfide	317
+2-methyl-1,4-hydroquinone	318
+9,10-Dimethyl-1,2-benzanthracene	319
+Asbestos, Crocidolite	320
+3,4-dinitrotoluene	321
+2-chlorophenol	322
+benzoylcarbonyl-aspartyl-glutamyl-valyl-aspartyl-fluoromethyl ketone	323
+zerumbone	324
+pyrene	325
+Diethylnitrosamine	326
+4,4'-hexafluorisopropylidene diphenol	327
+methacryloxypropyltrimethoxysilane	328
+fenofibric acid	329
+dibutyltin oxide	330
+2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one	331
+Graphite	332
+vinylene carbonate	333
+citronellal	334
+1,4-hexadiene	335
+Dimethoate	336
+1-(4-ethynylphenyl)-4-propyl-2,6,7-trioxabicyclo(2.2.2)octane	337
+perfluorooctanoic acid	338
+thioglycerol	339
+vinclozolin	340
+1-nitropyrene	341
+lead nitrate	342
+Hyaluronic Acid	343
+4-(4-dimethylaminostyryl)-1-methylpyridinium	344
+tyrosyl-valyl-alanyl-aspartic acid fluoromethyl ketone	345
+Methylnitronitrosoguanidine	346
+Camphor	347
+calcium bromide	348
+perfluoropropionic acid	349
+benzyloxycarbonylleucyl-leucyl-leucine aldehyde	350
+cyclohexane diisocyanate	351
+1-octen-3-ol	352
+direct brown KX	353
+isoamyl acetate	354
+Endosulfan	355
+dyrene	356
+propylparaben	357
+1,2,3,4,6,7,8-heptachlorodibenzodioxin	358
+methyllycaconitine	359
+2-amino-3,8-dimethylimidazo(4,5-f)quinoxaline	360
+pentol	361
+Ketoconazole	362
+tricarbonyldichlororuthenium (II) dimer	363
+7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	364
+dichlorodimethylsilane	365
+Aroclor 1016	366
+Methoxychlor	367
+hectorite	368
+monomethylarsonous acid	369
+prolinedithiocarbamate	370
+Obidoxime Chloride	371
+glycerin monoallyl ether	372
+Dichlorodiphenyl Dichloroethylene	373
+Dichlorophen	374
+VX	375
+Lead	376
+benzo(k)fluoranthene	377
+sodium persulfate	378
+Mustard Gas	379
+pyridate	380
+monoisopropanolamine	381
+Benzo(a)pyrene	382
+Charcoal	383
+abrine	384
+sodium arsenite	385
+3-hydroxy-2-naphthoic acid	386
+1-methoxy-5-methylphenazinium methyl sulfate	387
+cyanidin 3-O-glucoside	388
+ethyl (5-(diethylglycyl)-10,11-dihydro-5H-dibenzo(b,f)azepin-3-yl)carbamate	389
+1,2,4,5-tetrachlorobenzene	390
+2-ethylhexyl nitrate	391
+4-methyl-7-diethylaminocoumarin	392
+methylcyclopentadiene dimer	393
+isophorone diisocyanate	394
+ethyl butyrate	395
+Acetylmuramyl-Alanyl-Isoglutamine	396
+1,4-cyclohexanedimethanol	397
+Chloroform	398
+1,3-dibromobenzene	399
