@@ -1,0 +1,2407 @@
+chem_index	gene_index	chemName	geneid
+58	7	Methyl Methanesulfonate	7124
+104	7	Phenylmercuric Acetate	7124
+112	7	tris(1,3-dichloro-2-propyl)phosphate	7124
+218	7	ICG 001	7124
+247	7	dicrotophos	7124
+306	7	methylmercuric chloride	7124
+433	7	potassium chromate(VI)	7124
+568	7	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	7124
+588	7	abrine	7124
+58	10	Methyl Methanesulfonate	7421
+81	10	cobaltous chloride	7421
+104	10	Phenylmercuric Acetate	7421
+112	10	tris(1,3-dichloro-2-propyl)phosphate	7421
+218	10	ICG 001	7421
+291	10	Arsenic Trioxide	7421
+306	10	methylmercuric chloride	7421
+429	10	Arsenic	7421
+568	10	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	7421
+81	13	cobaltous chloride	3665
+104	13	Phenylmercuric Acetate	3665
+218	13	ICG 001	3665
+225	13	butyraldehyde	3665
+247	13	dicrotophos	3665
+291	13	Arsenic Trioxide	3665
+306	13	methylmercuric chloride	3665
+369	13	Silicon Dioxide	3665
+433	13	potassium chromate(VI)	3665
+545	13	Lead	3665
+590	13	sodium arsenite	3665
+58	15	Methyl Methanesulfonate	57491
+104	15	Phenylmercuric Acetate	57491
+112	15	tris(1,3-dichloro-2-propyl)phosphate	57491
+141	15	Nickel	57491
+218	15	ICG 001	57491
+225	15	butyraldehyde	57491
+247	15	dicrotophos	57491
+291	15	Arsenic Trioxide	57491
+306	15	methylmercuric chloride	57491
+369	15	Silicon Dioxide	57491
+433	15	potassium chromate(VI)	57491
+545	15	Lead	57491
+590	15	sodium arsenite	57491
+104	16	Phenylmercuric Acetate	4609
+225	16	butyraldehyde	4609
+429	16	Arsenic	4609
+433	16	potassium chromate(VI)	4609
+545	16	Lead	4609
+588	16	abrine	4609
+58	20	Methyl Methanesulfonate	841
+112	20	tris(1,3-dichloro-2-propyl)phosphate	841
+218	20	ICG 001	841
+225	20	butyraldehyde	841
+247	20	dicrotophos	841
+369	20	Silicon Dioxide	841
+545	20	Lead	841
+55	21	Tetrachlorodibenzodioxin	4440
+58	21	Methyl Methanesulfonate	4440
+81	21	cobaltous chloride	4440
+104	21	Phenylmercuric Acetate	4440
+112	21	tris(1,3-dichloro-2-propyl)phosphate	4440
+141	21	Nickel	4440
+218	21	ICG 001	4440
+225	21	butyraldehyde	4440
+247	21	dicrotophos	4440
+306	21	methylmercuric chloride	4440
+338	21	Benzo(a)pyrene	4440
+369	21	Silicon Dioxide	4440
+429	21	Arsenic	4440
+433	21	potassium chromate(VI)	4440
+500	21	Aflatoxin B1	4440
+568	21	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	4440
+590	21	sodium arsenite	4440
+55	23	Tetrachlorodibenzodioxin	81631
+104	23	Phenylmercuric Acetate	81631
+141	23	Nickel	81631
+247	23	dicrotophos	81631
+55	24	Tetrachlorodibenzodioxin	101669762
+58	24	Methyl Methanesulfonate	101669762
+81	24	cobaltous chloride	101669762
+112	24	tris(1,3-dichloro-2-propyl)phosphate	101669762
+141	24	Nickel	101669762
+218	24	ICG 001	101669762
+225	24	butyraldehyde	101669762
+247	24	dicrotophos	101669762
+291	24	Arsenic Trioxide	101669762
+306	24	methylmercuric chloride	101669762
+338	24	Benzo(a)pyrene	101669762
+369	24	Silicon Dioxide	101669762
+429	24	Arsenic	101669762
+433	24	potassium chromate(VI)	101669762
+545	24	Lead	101669762
+568	24	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	101669762
+588	24	abrine	101669762
+590	24	sodium arsenite	101669762
+55	26	Tetrachlorodibenzodioxin	7471
+58	26	Methyl Methanesulfonate	7471
+81	26	cobaltous chloride	7471
+104	26	Phenylmercuric Acetate	7471
+112	26	tris(1,3-dichloro-2-propyl)phosphate	7471
+141	26	Nickel	7471
+225	26	butyraldehyde	7471
+247	26	dicrotophos	7471
+291	26	Arsenic Trioxide	7471
+306	26	methylmercuric chloride	7471
+338	26	Benzo(a)pyrene	7471
+369	26	Silicon Dioxide	7471
+429	26	Arsenic	7471
+433	26	potassium chromate(VI)	7471
+500	26	Aflatoxin B1	7471
+545	26	Lead	7471
+568	26	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	7471
+588	26	abrine	7471
+55	39	Tetrachlorodibenzodioxin	2879
+58	39	Methyl Methanesulfonate	2879
+104	39	Phenylmercuric Acetate	2879
+112	39	tris(1,3-dichloro-2-propyl)phosphate	2879
+141	39	Nickel	2879
+218	39	ICG 001	2879
+225	39	butyraldehyde	2879
+247	39	dicrotophos	2879
+306	39	methylmercuric chloride	2879
+338	39	Benzo(a)pyrene	2879
+369	39	Silicon Dioxide	2879
+429	39	Arsenic	2879
+433	39	potassium chromate(VI)	2879
+500	39	Aflatoxin B1	2879
+545	39	Lead	2879
+588	39	abrine	2879
+58	50	Methyl Methanesulfonate	5241
+104	50	Phenylmercuric Acetate	5241
+218	50	ICG 001	5241
+225	50	butyraldehyde	5241
+247	50	dicrotophos	5241
+291	50	Arsenic Trioxide	5241
+306	50	methylmercuric chloride	5241
+369	50	Silicon Dioxide	5241
+433	50	potassium chromate(VI)	5241
+500	50	Aflatoxin B1	5241
+545	50	Lead	5241
+568	50	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	5241
+588	50	abrine	5241
+58	54	Methyl Methanesulfonate	9971
+81	54	cobaltous chloride	9971
+104	54	Phenylmercuric Acetate	9971
+141	54	Nickel	9971
+218	54	ICG 001	9971
+291	54	Arsenic Trioxide	9971
+429	54	Arsenic	9971
+433	54	potassium chromate(VI)	9971
+545	54	Lead	9971
+568	54	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	9971
+588	54	abrine	9971
+55	58	Tetrachlorodibenzodioxin	407015
+58	58	Methyl Methanesulfonate	407015
+81	58	cobaltous chloride	407015
+104	58	Phenylmercuric Acetate	407015
+112	58	tris(1,3-dichloro-2-propyl)phosphate	407015
+141	58	Nickel	407015
+218	58	ICG 001	407015
+225	58	butyraldehyde	407015
+247	58	dicrotophos	407015
+291	58	Arsenic Trioxide	407015
+306	58	methylmercuric chloride	407015
+338	58	Benzo(a)pyrene	407015
+369	58	Silicon Dioxide	407015
+429	58	Arsenic	407015
+433	58	potassium chromate(VI)	407015
+500	58	Aflatoxin B1	407015
+545	58	Lead	407015
+568	58	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	407015
+588	58	abrine	407015
+590	58	sodium arsenite	407015
+58	60	Methyl Methanesulfonate	1555
+81	60	cobaltous chloride	1555
+104	60	Phenylmercuric Acetate	1555
+141	60	Nickel	1555
+218	60	ICG 001	1555
+225	60	butyraldehyde	1555
+247	60	dicrotophos	1555
+291	60	Arsenic Trioxide	1555
+306	60	methylmercuric chloride	1555
+369	60	Silicon Dioxide	1555
+429	60	Arsenic	1555
+433	60	potassium chromate(VI)	1555
+545	60	Lead	1555
+588	60	abrine	1555
+55	61	Tetrachlorodibenzodioxin	3630
+58	61	Methyl Methanesulfonate	3630
+81	61	cobaltous chloride	3630
+104	61	Phenylmercuric Acetate	3630
+112	61	tris(1,3-dichloro-2-propyl)phosphate	3630
+141	61	Nickel	3630
+218	61	ICG 001	3630
+225	61	butyraldehyde	3630
+247	61	dicrotophos	3630
+291	61	Arsenic Trioxide	3630
+306	61	methylmercuric chloride	3630
+338	61	Benzo(a)pyrene	3630
+369	61	Silicon Dioxide	3630
+429	61	Arsenic	3630
+433	61	potassium chromate(VI)	3630
+500	61	Aflatoxin B1	3630
+545	61	Lead	3630
+568	61	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3630
+588	61	abrine	3630
+55	62	Tetrachlorodibenzodioxin	590
+81	62	cobaltous chloride	590
+112	62	tris(1,3-dichloro-2-propyl)phosphate	590
+218	62	ICG 001	590
+225	62	butyraldehyde	590
+247	62	dicrotophos	590
+338	62	Benzo(a)pyrene	590
+429	62	Arsenic	590
+433	62	potassium chromate(VI)	590
+545	62	Lead	590
+568	62	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	590
+590	62	sodium arsenite	590
+58	63	Methyl Methanesulfonate	8856
+81	63	cobaltous chloride	8856
+104	63	Phenylmercuric Acetate	8856
+141	63	Nickel	8856
+218	63	ICG 001	8856
+225	63	butyraldehyde	8856
+247	63	dicrotophos	8856
+291	63	Arsenic Trioxide	8856
+306	63	methylmercuric chloride	8856
+369	63	Silicon Dioxide	8856
+429	63	Arsenic	8856
+433	63	potassium chromate(VI)	8856
+545	63	Lead	8856
+588	63	abrine	8856
+58	66	Methyl Methanesulfonate	1588
+81	66	cobaltous chloride	1588
+104	66	Phenylmercuric Acetate	1588
+141	66	Nickel	1588
+218	66	ICG 001	1588
+225	66	butyraldehyde	1588
+291	66	Arsenic Trioxide	1588
+369	66	Silicon Dioxide	1588
+429	66	Arsenic	1588
+433	66	potassium chromate(VI)	1588
+545	66	Lead	1588
+568	66	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	1588
+588	66	abrine	1588
+55	68	Tetrachlorodibenzodioxin	1244
+58	68	Methyl Methanesulfonate	1244
+81	68	cobaltous chloride	1244
+104	68	Phenylmercuric Acetate	1244
+141	68	Nickel	1244
+218	68	ICG 001	1244
+306	68	methylmercuric chloride	1244
+369	68	Silicon Dioxide	1244
+433	68	potassium chromate(VI)	1244
+545	68	Lead	1244
+568	68	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	1244
+588	68	abrine	1244
+58	69	Methyl Methanesulfonate	1950
+112	69	tris(1,3-dichloro-2-propyl)phosphate	1950
+218	69	ICG 001	1950
+225	69	butyraldehyde	1950
+247	69	dicrotophos	1950
+338	69	Benzo(a)pyrene	1950
+369	69	Silicon Dioxide	1950
+429	69	Arsenic	1950
+433	69	potassium chromate(VI)	1950
+545	69	Lead	1950
+568	69	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	1950
+588	69	abrine	1950
+55	73	Tetrachlorodibenzodioxin	1592
+58	73	Methyl Methanesulfonate	1592
+81	73	cobaltous chloride	1592
+141	73	Nickel	1592
+218	73	ICG 001	1592
+247	73	dicrotophos	1592
+291	73	Arsenic Trioxide	1592
+338	73	Benzo(a)pyrene	1592
+433	73	potassium chromate(VI)	1592
+545	73	Lead	1592
+568	73	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	1592
+58	74	Methyl Methanesulfonate	213
+81	74	cobaltous chloride	213
+104	74	Phenylmercuric Acetate	213
+112	74	tris(1,3-dichloro-2-propyl)phosphate	213
+218	74	ICG 001	213
+225	74	butyraldehyde	213
+429	74	Arsenic	213
+433	74	potassium chromate(VI)	213
+500	74	Aflatoxin B1	213
+588	74	abrine	213
+58	76	Methyl Methanesulfonate	207
+104	76	Phenylmercuric Acetate	207
+112	76	tris(1,3-dichloro-2-propyl)phosphate	207
+218	76	ICG 001	207
+225	76	butyraldehyde	207
+247	76	dicrotophos	207
+306	76	methylmercuric chloride	207
+369	76	Silicon Dioxide	207
+433	76	potassium chromate(VI)	207
+545	76	Lead	207
+58	78	Methyl Methanesulfonate	3934
+104	78	Phenylmercuric Acetate	3934
+247	78	dicrotophos	3934
+306	78	methylmercuric chloride	3934
+429	78	Arsenic	3934
+433	78	potassium chromate(VI)	3934
+545	78	Lead	3934
+568	78	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3934
+588	78	abrine	3934
+58	81	Methyl Methanesulfonate	4780
+112	81	tris(1,3-dichloro-2-propyl)phosphate	4780
+141	81	Nickel	4780
+225	81	butyraldehyde	4780
+247	81	dicrotophos	4780
+433	81	potassium chromate(VI)	4780
+568	81	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	4780
+55	85	Tetrachlorodibenzodioxin	6582
+58	85	Methyl Methanesulfonate	6582
+81	85	cobaltous chloride	6582
+104	85	Phenylmercuric Acetate	6582
+112	85	tris(1,3-dichloro-2-propyl)phosphate	6582
+141	85	Nickel	6582
+218	85	ICG 001	6582
+225	85	butyraldehyde	6582
+247	85	dicrotophos	6582
+291	85	Arsenic Trioxide	6582
+306	85	methylmercuric chloride	6582
+369	85	Silicon Dioxide	6582
+429	85	Arsenic	6582
+433	85	potassium chromate(VI)	6582
+545	85	Lead	6582
+568	85	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	6582
+590	85	sodium arsenite	6582
+58	94	Methyl Methanesulfonate	1544
+81	94	cobaltous chloride	1544
+104	94	Phenylmercuric Acetate	1544
+112	94	tris(1,3-dichloro-2-propyl)phosphate	1544
+218	94	ICG 001	1544
+225	94	butyraldehyde	1544
+291	94	Arsenic Trioxide	1544
+306	94	methylmercuric chloride	1544
+429	94	Arsenic	1544
+433	94	potassium chromate(VI)	1544
+545	94	Lead	1544
+568	94	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	1544
+58	97	Methyl Methanesulfonate	356
+104	97	Phenylmercuric Acetate	356
+112	97	tris(1,3-dichloro-2-propyl)phosphate	356
+218	97	ICG 001	356
+225	97	butyraldehyde	356
+247	97	dicrotophos	356
+306	97	methylmercuric chloride	356
+369	97	Silicon Dioxide	356
+433	97	potassium chromate(VI)	356
+500	97	Aflatoxin B1	356
+545	97	Lead	356
+568	97	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	356
+104	103	Phenylmercuric Acetate	2932
+112	103	tris(1,3-dichloro-2-propyl)phosphate	2932
+141	103	Nickel	2932
+218	103	ICG 001	2932
+225	103	butyraldehyde	2932
+247	103	dicrotophos	2932
+588	103	abrine	2932
+58	105	Methyl Methanesulfonate	8290
+81	105	cobaltous chloride	8290
+104	105	Phenylmercuric Acetate	8290
+112	105	tris(1,3-dichloro-2-propyl)phosphate	8290
+218	105	ICG 001	8290
+225	105	butyraldehyde	8290
+247	105	dicrotophos	8290
+306	105	methylmercuric chloride	8290
+545	105	Lead	8290
+568	105	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	8290
+588	105	abrine	8290
+55	111	Tetrachlorodibenzodioxin	4648
+58	111	Methyl Methanesulfonate	4648
+81	111	cobaltous chloride	4648
+104	111	Phenylmercuric Acetate	4648
+112	111	tris(1,3-dichloro-2-propyl)phosphate	4648
+141	111	Nickel	4648
+218	111	ICG 001	4648
+247	111	dicrotophos	4648
+291	111	Arsenic Trioxide	4648
+306	111	methylmercuric chloride	4648
+369	111	Silicon Dioxide	4648
+429	111	Arsenic	4648
+433	111	potassium chromate(VI)	4648
+545	111	Lead	4648
+568	111	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	4648
+590	111	sodium arsenite	4648
+55	112	Tetrachlorodibenzodioxin	1139
+58	112	Methyl Methanesulfonate	1139
+81	112	cobaltous chloride	1139
+104	112	Phenylmercuric Acetate	1139
+141	112	Nickel	1139
+218	112	ICG 001	1139
+247	112	dicrotophos	1139
+291	112	Arsenic Trioxide	1139
+306	112	methylmercuric chloride	1139
+338	112	Benzo(a)pyrene	1139
+369	112	Silicon Dioxide	1139
+429	112	Arsenic	1139
+433	112	potassium chromate(VI)	1139
+545	112	Lead	1139
+568	112	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	1139
+588	112	abrine	1139
+55	117	Tetrachlorodibenzodioxin	406947
+58	117	Methyl Methanesulfonate	406947
+81	117	cobaltous chloride	406947
+104	117	Phenylmercuric Acetate	406947
+112	117	tris(1,3-dichloro-2-propyl)phosphate	406947
+141	117	Nickel	406947
+218	117	ICG 001	406947
+225	117	butyraldehyde	406947
+247	117	dicrotophos	406947
+306	117	methylmercuric chloride	406947
+338	117	Benzo(a)pyrene	406947
+369	117	Silicon Dioxide	406947
+429	117	Arsenic	406947
+433	117	potassium chromate(VI)	406947
+500	117	Aflatoxin B1	406947
+545	117	Lead	406947
+588	117	abrine	406947
+58	120	Methyl Methanesulfonate	9429
+112	120	tris(1,3-dichloro-2-propyl)phosphate	9429
+141	120	Nickel	9429
+218	120	ICG 001	9429
+225	120	butyraldehyde	9429
+247	120	dicrotophos	9429
+429	120	Arsenic	9429
+433	120	potassium chromate(VI)	9429
+545	120	Lead	9429
+55	121	Tetrachlorodibenzodioxin	145837
+58	121	Methyl Methanesulfonate	145837
+81	121	cobaltous chloride	145837
+104	121	Phenylmercuric Acetate	145837
+112	121	tris(1,3-dichloro-2-propyl)phosphate	145837
+218	121	ICG 001	145837
+247	121	dicrotophos	145837
+291	121	Arsenic Trioxide	145837
+306	121	methylmercuric chloride	145837
+338	121	Benzo(a)pyrene	145837
+369	121	Silicon Dioxide	145837
+429	121	Arsenic	145837
+433	121	potassium chromate(VI)	145837
+545	121	Lead	145837
+568	121	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	145837
+588	121	abrine	145837
+590	121	sodium arsenite	145837
+55	132	Tetrachlorodibenzodioxin	26822
+58	132	Methyl Methanesulfonate	26822
+81	132	cobaltous chloride	26822
+104	132	Phenylmercuric Acetate	26822
+112	132	tris(1,3-dichloro-2-propyl)phosphate	26822
+141	132	Nickel	26822
+218	132	ICG 001	26822
+225	132	butyraldehyde	26822
+247	132	dicrotophos	26822
+291	132	Arsenic Trioxide	26822
+306	132	methylmercuric chloride	26822
+338	132	Benzo(a)pyrene	26822
+369	132	Silicon Dioxide	26822
+429	132	Arsenic	26822
+433	132	potassium chromate(VI)	26822
+500	132	Aflatoxin B1	26822
+545	132	Lead	26822
+568	132	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	26822
+588	132	abrine	26822
+590	132	sodium arsenite	26822
+58	138	Methyl Methanesulfonate	3558
+104	138	Phenylmercuric Acetate	3558
+112	138	tris(1,3-dichloro-2-propyl)phosphate	3558
+218	138	ICG 001	3558
+225	138	butyraldehyde	3558
+247	138	dicrotophos	3558
+291	138	Arsenic Trioxide	3558
+433	138	potassium chromate(VI)	3558
+500	138	Aflatoxin B1	3558
+545	138	Lead	3558
+568	138	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3558
+588	138	abrine	3558
+58	148	Methyl Methanesulfonate	3297
+104	148	Phenylmercuric Acetate	3297
+141	148	Nickel	3297
+218	148	ICG 001	3297
+225	148	butyraldehyde	3297
+306	148	methylmercuric chloride	3297
+369	148	Silicon Dioxide	3297
+429	148	Arsenic	3297
+433	148	potassium chromate(VI)	3297
+545	148	Lead	3297
+568	148	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3297
+55	153	Tetrachlorodibenzodioxin	1270
+58	153	Methyl Methanesulfonate	1270
+81	153	cobaltous chloride	1270
+104	153	Phenylmercuric Acetate	1270
+112	153	tris(1,3-dichloro-2-propyl)phosphate	1270
+141	153	Nickel	1270
+218	153	ICG 001	1270
+225	153	butyraldehyde	1270
+247	153	dicrotophos	1270
+291	153	Arsenic Trioxide	1270
+306	153	methylmercuric chloride	1270
+338	153	Benzo(a)pyrene	1270
+369	153	Silicon Dioxide	1270
+429	153	Arsenic	1270
+433	153	potassium chromate(VI)	1270
+500	153	Aflatoxin B1	1270
+545	153	Lead	1270
+568	153	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	1270
+590	153	sodium arsenite	1270
+58	155	Methyl Methanesulfonate	836
+218	155	ICG 001	836
+225	155	butyraldehyde	836
+104	156	Phenylmercuric Acetate	2353
+218	156	ICG 001	2353
+247	156	dicrotophos	2353
+55	159	Tetrachlorodibenzodioxin	10498
+104	159	Phenylmercuric Acetate	10498
+112	159	tris(1,3-dichloro-2-propyl)phosphate	10498
+141	159	Nickel	10498
+218	159	ICG 001	10498
+225	159	butyraldehyde	10498
+247	159	dicrotophos	10498
+338	159	Benzo(a)pyrene	10498
+369	159	Silicon Dioxide	10498
+429	159	Arsenic	10498
+433	159	potassium chromate(VI)	10498
+500	159	Aflatoxin B1	10498
+568	159	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	10498
+588	159	abrine	10498
+55	163	Tetrachlorodibenzodioxin	25
+58	163	Methyl Methanesulfonate	25
+81	163	cobaltous chloride	25
+104	163	Phenylmercuric Acetate	25
+112	163	tris(1,3-dichloro-2-propyl)phosphate	25
+141	163	Nickel	25
+306	163	methylmercuric chloride	25
+338	163	Benzo(a)pyrene	25
+369	163	Silicon Dioxide	25
+429	163	Arsenic	25
+433	163	potassium chromate(VI)	25
+500	163	Aflatoxin B1	25
+545	163	Lead	25
+55	170	Tetrachlorodibenzodioxin	331
+58	170	Methyl Methanesulfonate	331
+81	170	cobaltous chloride	331
+104	170	Phenylmercuric Acetate	331
+112	170	tris(1,3-dichloro-2-propyl)phosphate	331
+141	170	Nickel	331
+218	170	ICG 001	331
+225	170	butyraldehyde	331
+247	170	dicrotophos	331
+306	170	methylmercuric chloride	331
+338	170	Benzo(a)pyrene	331
+433	170	potassium chromate(VI)	331
+545	170	Lead	331
+588	170	abrine	331
+58	171	Methyl Methanesulfonate	595
+104	171	Phenylmercuric Acetate	595
+218	171	ICG 001	595
+225	171	butyraldehyde	595
+247	171	dicrotophos	595
+545	171	Lead	595
+112	195	tris(1,3-dichloro-2-propyl)phosphate	2335
+218	195	ICG 001	2335
+429	195	Arsenic	2335
+433	195	potassium chromate(VI)	2335
+500	195	Aflatoxin B1	2335
+568	195	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	2335
+104	196	Phenylmercuric Acetate	3586
+112	196	tris(1,3-dichloro-2-propyl)phosphate	3586
+218	196	ICG 001	3586
+225	196	butyraldehyde	3586
+247	196	dicrotophos	3586
+291	196	Arsenic Trioxide	3586
+306	196	methylmercuric chloride	3586
+369	196	Silicon Dioxide	3586
+433	196	potassium chromate(VI)	3586
+545	196	Lead	3586
+568	196	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3586
+588	196	abrine	3586
+58	197	Methyl Methanesulfonate	2099
+104	197	Phenylmercuric Acetate	2099
+141	197	Nickel	2099
+218	197	ICG 001	2099
+225	197	butyraldehyde	2099
+247	197	dicrotophos	2099
+306	197	methylmercuric chloride	2099
+369	197	Silicon Dioxide	2099
+433	197	potassium chromate(VI)	2099
+545	197	Lead	2099
+568	197	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	2099
+588	197	abrine	2099
+58	199	Methyl Methanesulfonate	6352
+81	199	cobaltous chloride	6352
+104	199	Phenylmercuric Acetate	6352
+112	199	tris(1,3-dichloro-2-propyl)phosphate	6352
+247	199	dicrotophos	6352
+291	199	Arsenic Trioxide	6352
+433	199	potassium chromate(VI)	6352
+500	199	Aflatoxin B1	6352
+545	199	Lead	6352
+568	199	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	6352
+58	200	Methyl Methanesulfonate	5243
+104	200	Phenylmercuric Acetate	5243
+218	200	ICG 001	5243
+306	200	methylmercuric chloride	5243
+369	200	Silicon Dioxide	5243
+433	200	potassium chromate(VI)	5243
+568	200	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	5243
+588	200	abrine	5243
+58	202	Methyl Methanesulfonate	999
+112	202	tris(1,3-dichloro-2-propyl)phosphate	999
+141	202	Nickel	999
+247	202	dicrotophos	999
+433	202	potassium chromate(VI)	999
+545	202	Lead	999
+568	202	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	999
+55	203	Tetrachlorodibenzodioxin	64127
+58	203	Methyl Methanesulfonate	64127
+81	203	cobaltous chloride	64127
+104	203	Phenylmercuric Acetate	64127
+112	203	tris(1,3-dichloro-2-propyl)phosphate	64127
+218	203	ICG 001	64127
+247	203	dicrotophos	64127
+291	203	Arsenic Trioxide	64127
+306	203	methylmercuric chloride	64127
+338	203	Benzo(a)pyrene	64127
+369	203	Silicon Dioxide	64127
+433	203	potassium chromate(VI)	64127
+545	203	Lead	64127
+568	203	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	64127
+590	203	sodium arsenite	64127
+55	205	Tetrachlorodibenzodioxin	406940
+58	205	Methyl Methanesulfonate	406940
+81	205	cobaltous chloride	406940
+104	205	Phenylmercuric Acetate	406940
+112	205	tris(1,3-dichloro-2-propyl)phosphate	406940
+141	205	Nickel	406940
+218	205	ICG 001	406940
+225	205	butyraldehyde	406940
+247	205	dicrotophos	406940
+306	205	methylmercuric chloride	406940
+338	205	Benzo(a)pyrene	406940
+369	205	Silicon Dioxide	406940
+433	205	potassium chromate(VI)	406940
+500	205	Aflatoxin B1	406940
+545	205	Lead	406940
+568	205	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	406940
+588	205	abrine	406940
+225	207	butyraldehyde	1026
+247	207	dicrotophos	1026
+433	207	potassium chromate(VI)	1026
+104	208	Phenylmercuric Acetate	3091
+112	208	tris(1,3-dichloro-2-propyl)phosphate	3091
+225	208	butyraldehyde	3091
+247	208	dicrotophos	3091
+306	208	methylmercuric chloride	3091
+369	208	Silicon Dioxide	3091
+545	208	Lead	3091
+568	208	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3091
+588	208	abrine	3091
+58	211	Methyl Methanesulfonate	6657
+112	211	tris(1,3-dichloro-2-propyl)phosphate	6657
+141	211	Nickel	6657
+218	211	ICG 001	6657
+247	211	dicrotophos	6657
+433	211	potassium chromate(VI)	6657
+545	211	Lead	6657
+568	211	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	6657
+58	224	Methyl Methanesulfonate	6256
+81	224	cobaltous chloride	6256
+104	224	Phenylmercuric Acetate	6256
+141	224	Nickel	6256
+218	224	ICG 001	6256
+306	224	methylmercuric chloride	6256
+369	224	Silicon Dioxide	6256
+429	224	Arsenic	6256
+433	224	potassium chromate(VI)	6256
+545	224	Lead	6256
+588	224	abrine	6256
+58	226	Methyl Methanesulfonate	5595
+104	226	Phenylmercuric Acetate	5595
+112	226	tris(1,3-dichloro-2-propyl)phosphate	5595
+225	226	butyraldehyde	5595
+247	226	dicrotophos	5595
+306	226	methylmercuric chloride	5595
+433	226	potassium chromate(VI)	5595
+588	226	abrine	5595
+55	232	Tetrachlorodibenzodioxin	3458
+58	232	Methyl Methanesulfonate	3458
+104	232	Phenylmercuric Acetate	3458
+112	232	tris(1,3-dichloro-2-propyl)phosphate	3458
+218	232	ICG 001	3458
+225	232	butyraldehyde	3458
+247	232	dicrotophos	3458
+306	232	methylmercuric chloride	3458
+369	232	Silicon Dioxide	3458
+433	232	potassium chromate(VI)	3458
+500	232	Aflatoxin B1	3458
+545	232	Lead	3458
+568	232	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3458
+58	244	Methyl Methanesulfonate	596
+104	244	Phenylmercuric Acetate	596
+218	244	ICG 001	596
+433	244	potassium chromate(VI)	596
+588	244	abrine	596
+55	245	Tetrachlorodibenzodioxin	122706
+58	245	Methyl Methanesulfonate	122706
+81	245	cobaltous chloride	122706
+104	245	Phenylmercuric Acetate	122706
+112	245	tris(1,3-dichloro-2-propyl)phosphate	122706
+141	245	Nickel	122706
+218	245	ICG 001	122706
+225	245	butyraldehyde	122706
+247	245	dicrotophos	122706
+291	245	Arsenic Trioxide	122706
+306	245	methylmercuric chloride	122706
+338	245	Benzo(a)pyrene	122706
+369	245	Silicon Dioxide	122706
+429	245	Arsenic	122706
+433	245	potassium chromate(VI)	122706
+500	245	Aflatoxin B1	122706
+545	245	Lead	122706
+568	245	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	122706
+588	245	abrine	122706
+590	245	sodium arsenite	122706
+104	247	Phenylmercuric Acetate	6241
+247	247	dicrotophos	6241
+306	247	methylmercuric chloride	6241
+429	247	Arsenic	6241
+433	247	potassium chromate(VI)	6241
+545	247	Lead	6241
+55	253	Tetrachlorodibenzodioxin	652995
+58	253	Methyl Methanesulfonate	652995
+81	253	cobaltous chloride	652995
+104	253	Phenylmercuric Acetate	652995
+112	253	tris(1,3-dichloro-2-propyl)phosphate	652995
+141	253	Nickel	652995
+247	253	dicrotophos	652995
+291	253	Arsenic Trioxide	652995
+306	253	methylmercuric chloride	652995
+369	253	Silicon Dioxide	652995
+433	253	potassium chromate(VI)	652995
+545	253	Lead	652995
+568	253	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	652995
+588	253	abrine	652995
+218	254	ICG 001	4193
+225	254	butyraldehyde	4193
+247	254	dicrotophos	4193
+369	254	Silicon Dioxide	4193
+433	254	potassium chromate(VI)	4193
+545	254	Lead	4193
+588	254	abrine	4193
+55	255	Tetrachlorodibenzodioxin	123775
+81	255	cobaltous chloride	123775
+104	255	Phenylmercuric Acetate	123775
+112	255	tris(1,3-dichloro-2-propyl)phosphate	123775
+141	255	Nickel	123775
+218	255	ICG 001	123775
+225	255	butyraldehyde	123775
+247	255	dicrotophos	123775
+291	255	Arsenic Trioxide	123775
+306	255	methylmercuric chloride	123775
+338	255	Benzo(a)pyrene	123775
+369	255	Silicon Dioxide	123775
+429	255	Arsenic	123775
+500	255	Aflatoxin B1	123775
+545	255	Lead	123775
+568	255	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	123775
+590	255	sodium arsenite	123775
+58	260	Methyl Methanesulfonate	5468
+104	260	Phenylmercuric Acetate	5468
+218	260	ICG 001	5468
+225	260	butyraldehyde	5468
+247	260	dicrotophos	5468
+306	260	methylmercuric chloride	5468
+433	260	potassium chromate(VI)	5468
+545	260	Lead	5468
+55	261	Tetrachlorodibenzodioxin	54480
+58	261	Methyl Methanesulfonate	54480
+104	261	Phenylmercuric Acetate	54480
+141	261	Nickel	54480
+218	261	ICG 001	54480
+225	261	butyraldehyde	54480
+247	261	dicrotophos	54480
+291	261	Arsenic Trioxide	54480
+306	261	methylmercuric chloride	54480
+338	261	Benzo(a)pyrene	54480
+369	261	Silicon Dioxide	54480
+429	261	Arsenic	54480
+433	261	potassium chromate(VI)	54480
+500	261	Aflatoxin B1	54480
+545	261	Lead	54480
+568	261	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	54480
+588	261	abrine	54480
+590	261	sodium arsenite	54480
+58	263	Methyl Methanesulfonate	3576
+104	263	Phenylmercuric Acetate	3576
+112	263	tris(1,3-dichloro-2-propyl)phosphate	3576
+218	263	ICG 001	3576
+247	263	dicrotophos	3576
+104	269	Phenylmercuric Acetate	1786
+112	269	tris(1,3-dichloro-2-propyl)phosphate	1786
+218	269	ICG 001	1786
+225	269	butyraldehyde	1786
+306	269	methylmercuric chloride	1786
+433	269	potassium chromate(VI)	1786
+500	269	Aflatoxin B1	1786
+568	269	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	1786
+588	269	abrine	1786
+55	270	Tetrachlorodibenzodioxin	108589157
+58	270	Methyl Methanesulfonate	108589157
+81	270	cobaltous chloride	108589157
+104	270	Phenylmercuric Acetate	108589157
+112	270	tris(1,3-dichloro-2-propyl)phosphate	108589157
+141	270	Nickel	108589157
+218	270	ICG 001	108589157
+225	270	butyraldehyde	108589157
+247	270	dicrotophos	108589157
+291	270	Arsenic Trioxide	108589157
+306	270	methylmercuric chloride	108589157
+338	270	Benzo(a)pyrene	108589157
+369	270	Silicon Dioxide	108589157
+429	270	Arsenic	108589157
+433	270	potassium chromate(VI)	108589157
+500	270	Aflatoxin B1	108589157
+545	270	Lead	108589157
+568	270	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	108589157
+588	270	abrine	108589157
+590	270	sodium arsenite	108589157
+55	277	Tetrachlorodibenzodioxin	100873939
+58	277	Methyl Methanesulfonate	100873939
+81	277	cobaltous chloride	100873939
+104	277	Phenylmercuric Acetate	100873939
+112	277	tris(1,3-dichloro-2-propyl)phosphate	100873939
+141	277	Nickel	100873939
+218	277	ICG 001	100873939
+225	277	butyraldehyde	100873939
+247	277	dicrotophos	100873939
+291	277	Arsenic Trioxide	100873939
+306	277	methylmercuric chloride	100873939
+338	277	Benzo(a)pyrene	100873939
+369	277	Silicon Dioxide	100873939
+429	277	Arsenic	100873939
+433	277	potassium chromate(VI)	100873939
+500	277	Aflatoxin B1	100873939
+545	277	Lead	100873939
+568	277	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	100873939
+588	277	abrine	100873939
+590	277	sodium arsenite	100873939
+55	279	Tetrachlorodibenzodioxin	8505
+58	279	Methyl Methanesulfonate	8505
+81	279	cobaltous chloride	8505
+104	279	Phenylmercuric Acetate	8505
+112	279	tris(1,3-dichloro-2-propyl)phosphate	8505
+218	279	ICG 001	8505
+225	279	butyraldehyde	8505
+247	279	dicrotophos	8505
+291	279	Arsenic Trioxide	8505
+369	279	Silicon Dioxide	8505
+429	279	Arsenic	8505
+545	279	Lead	8505
+588	279	abrine	8505
+590	279	sodium arsenite	8505
+55	282	Tetrachlorodibenzodioxin	100500846
+58	282	Methyl Methanesulfonate	100500846
+81	282	cobaltous chloride	100500846
+104	282	Phenylmercuric Acetate	100500846
+112	282	tris(1,3-dichloro-2-propyl)phosphate	100500846
+141	282	Nickel	100500846
+218	282	ICG 001	100500846
+225	282	butyraldehyde	100500846
+247	282	dicrotophos	100500846
+291	282	Arsenic Trioxide	100500846
+306	282	methylmercuric chloride	100500846
+338	282	Benzo(a)pyrene	100500846
+369	282	Silicon Dioxide	100500846
+429	282	Arsenic	100500846
+433	282	potassium chromate(VI)	100500846
+500	282	Aflatoxin B1	100500846
+545	282	Lead	100500846
+568	282	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	100500846
+588	282	abrine	100500846
+590	282	sodium arsenite	100500846
+104	285	Phenylmercuric Acetate	5728
+112	285	tris(1,3-dichloro-2-propyl)phosphate	5728
+141	285	Nickel	5728
+218	285	ICG 001	5728
+225	285	butyraldehyde	5728
+433	285	potassium chromate(VI)	5728
+588	285	abrine	5728
+58	286	Methyl Methanesulfonate	405
+112	286	tris(1,3-dichloro-2-propyl)phosphate	405
+141	286	Nickel	405
+218	286	ICG 001	405
+225	286	butyraldehyde	405
+247	286	dicrotophos	405
+291	286	Arsenic Trioxide	405
+306	286	methylmercuric chloride	405
+369	286	Silicon Dioxide	405
+429	286	Arsenic	405
+568	286	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	405
+588	286	abrine	405
+590	286	sodium arsenite	405
+55	289	Tetrachlorodibenzodioxin	2688
+58	289	Methyl Methanesulfonate	2688
+81	289	cobaltous chloride	2688
+104	289	Phenylmercuric Acetate	2688
+112	289	tris(1,3-dichloro-2-propyl)phosphate	2688
+141	289	Nickel	2688
+218	289	ICG 001	2688
+225	289	butyraldehyde	2688
+247	289	dicrotophos	2688
+306	289	methylmercuric chloride	2688
+338	289	Benzo(a)pyrene	2688
+369	289	Silicon Dioxide	2688
+429	289	Arsenic	2688
+433	289	potassium chromate(VI)	2688
+500	289	Aflatoxin B1	2688
+545	289	Lead	2688
+568	289	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	2688
+588	289	abrine	2688
+590	289	sodium arsenite	2688
+55	290	Tetrachlorodibenzodioxin	240
+58	290	Methyl Methanesulfonate	240
+81	290	cobaltous chloride	240
+104	290	Phenylmercuric Acetate	240
+112	290	tris(1,3-dichloro-2-propyl)phosphate	240
+218	290	ICG 001	240
+247	290	dicrotophos	240
+291	290	Arsenic Trioxide	240
+433	290	potassium chromate(VI)	240
+545	290	Lead	240
+568	290	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	240
+588	290	abrine	240
+55	291	Tetrachlorodibenzodioxin	5300
+58	291	Methyl Methanesulfonate	5300
+81	291	cobaltous chloride	5300
+104	291	Phenylmercuric Acetate	5300
+112	291	tris(1,3-dichloro-2-propyl)phosphate	5300
+141	291	Nickel	5300
+218	291	ICG 001	5300
+225	291	butyraldehyde	5300
+247	291	dicrotophos	5300
+306	291	methylmercuric chloride	5300
+338	291	Benzo(a)pyrene	5300
+369	291	Silicon Dioxide	5300
+429	291	Arsenic	5300
+433	291	potassium chromate(VI)	5300
+500	291	Aflatoxin B1	5300
+545	291	Lead	5300
+568	291	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	5300
+588	291	abrine	5300
+590	291	sodium arsenite	5300
+55	293	Tetrachlorodibenzodioxin	574444
+58	293	Methyl Methanesulfonate	574444
+81	293	cobaltous chloride	574444
+104	293	Phenylmercuric Acetate	574444
+112	293	tris(1,3-dichloro-2-propyl)phosphate	574444
+141	293	Nickel	574444
+218	293	ICG 001	574444
+225	293	butyraldehyde	574444
+247	293	dicrotophos	574444
+306	293	methylmercuric chloride	574444
+338	293	Benzo(a)pyrene	574444
+369	293	Silicon Dioxide	574444
+429	293	Arsenic	574444
+433	293	potassium chromate(VI)	574444
+500	293	Aflatoxin B1	574444
+545	293	Lead	574444
+568	293	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	574444
+588	293	abrine	574444
+590	293	sodium arsenite	574444
+81	298	cobaltous chloride	6648
+112	298	tris(1,3-dichloro-2-propyl)phosphate	6648
+218	298	ICG 001	6648
+433	298	potassium chromate(VI)	6648
+568	298	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	6648
+58	299	Methyl Methanesulfonate	1386
+104	299	Phenylmercuric Acetate	1386
+141	299	Nickel	1386
+218	299	ICG 001	1386
+225	299	butyraldehyde	1386
+306	299	methylmercuric chloride	1386
+369	299	Silicon Dioxide	1386
+433	299	potassium chromate(VI)	1386
+588	299	abrine	1386
+58	303	Methyl Methanesulfonate	54658
+81	303	cobaltous chloride	54658
+104	303	Phenylmercuric Acetate	54658
+112	303	tris(1,3-dichloro-2-propyl)phosphate	54658
+141	303	Nickel	54658
+218	303	ICG 001	54658
+225	303	butyraldehyde	54658
+247	303	dicrotophos	54658
+291	303	Arsenic Trioxide	54658
+306	303	methylmercuric chloride	54658
+369	303	Silicon Dioxide	54658
+433	303	potassium chromate(VI)	54658
+545	303	Lead	54658
+568	303	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	54658
+590	303	sodium arsenite	54658
+218	304	ICG 001	3162
+225	304	butyraldehyde	3162
+247	304	dicrotophos	3162
+433	304	potassium chromate(VI)	3162
+58	305	Methyl Methanesulfonate	43
+81	305	cobaltous chloride	43
+104	305	Phenylmercuric Acetate	43
+112	305	tris(1,3-dichloro-2-propyl)phosphate	43
+141	305	Nickel	43
+218	305	ICG 001	43
+225	305	butyraldehyde	43
+291	305	Arsenic Trioxide	43
+306	305	methylmercuric chloride	43
+369	305	Silicon Dioxide	43
+429	305	Arsenic	43
+433	305	potassium chromate(VI)	43
+500	305	Aflatoxin B1	43
+568	305	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	43
+58	308	Methyl Methanesulfonate	1553
+81	308	cobaltous chloride	1553
+104	308	Phenylmercuric Acetate	1553
+112	308	tris(1,3-dichloro-2-propyl)phosphate	1553
+141	308	Nickel	1553
+218	308	ICG 001	1553
+225	308	butyraldehyde	1553
+247	308	dicrotophos	1553
+291	308	Arsenic Trioxide	1553
+306	308	methylmercuric chloride	1553
+369	308	Silicon Dioxide	1553
+429	308	Arsenic	1553
+433	308	potassium chromate(VI)	1553
+545	308	Lead	1553
+568	308	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	1553
+588	308	abrine	1553
+590	308	sodium arsenite	1553
+55	309	Tetrachlorodibenzodioxin	5465
+58	309	Methyl Methanesulfonate	5465
+141	309	Nickel	5465
+218	309	ICG 001	5465
+247	309	dicrotophos	5465
+306	309	methylmercuric chloride	5465
+433	309	potassium chromate(VI)	5465
+545	309	Lead	5465
+568	309	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	5465
+590	309	sodium arsenite	5465
+104	317	Phenylmercuric Acetate	6720
+141	317	Nickel	6720
+218	317	ICG 001	6720
+225	317	butyraldehyde	6720
+247	317	dicrotophos	6720
+306	317	methylmercuric chloride	6720
+369	317	Silicon Dioxide	6720
+429	317	Arsenic	6720
+433	317	potassium chromate(VI)	6720
+545	317	Lead	6720
+568	317	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	6720
+588	317	abrine	6720
+55	321	Tetrachlorodibenzodioxin	4353
+58	321	Methyl Methanesulfonate	4353
+81	321	cobaltous chloride	4353
+104	321	Phenylmercuric Acetate	4353
+112	321	tris(1,3-dichloro-2-propyl)phosphate	4353
+141	321	Nickel	4353
+218	321	ICG 001	4353
+225	321	butyraldehyde	4353
+247	321	dicrotophos	4353
+306	321	methylmercuric chloride	4353
+369	321	Silicon Dioxide	4353
+433	321	potassium chromate(VI)	4353
+545	321	Lead	4353
+568	321	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	4353
+588	321	abrine	4353
+590	321	sodium arsenite	4353
+58	326	Methyl Methanesulfonate	5914
+104	326	Phenylmercuric Acetate	5914
+112	326	tris(1,3-dichloro-2-propyl)phosphate	5914
+141	326	Nickel	5914
+218	326	ICG 001	5914
+225	326	butyraldehyde	5914
+306	326	methylmercuric chloride	5914
+369	326	Silicon Dioxide	5914
+429	326	Arsenic	5914
+433	326	potassium chromate(VI)	5914
+545	326	Lead	5914
+568	326	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	5914
+58	332	Methyl Methanesulfonate	4312
+104	332	Phenylmercuric Acetate	4312
+112	332	tris(1,3-dichloro-2-propyl)phosphate	4312
+218	332	ICG 001	4312
+247	332	dicrotophos	4312
+306	332	methylmercuric chloride	4312
+500	332	Aflatoxin B1	4312
+545	332	Lead	4312
+588	332	abrine	4312
+58	335	Methyl Methanesulfonate	367
+104	335	Phenylmercuric Acetate	367
+218	335	ICG 001	367
+247	335	dicrotophos	367
+306	335	methylmercuric chloride	367
+429	335	Arsenic	367
+545	335	Lead	367
+568	335	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	367
+58	339	Methyl Methanesulfonate	2033
+104	339	Phenylmercuric Acetate	2033
+112	339	tris(1,3-dichloro-2-propyl)phosphate	2033
+141	339	Nickel	2033
+218	339	ICG 001	2033
+306	339	methylmercuric chloride	2033
+338	339	Benzo(a)pyrene	2033
+429	339	Arsenic	2033
+433	339	potassium chromate(VI)	2033
+500	339	Aflatoxin B1	2033
+545	339	Lead	2033
+568	339	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	2033
+55	343	Tetrachlorodibenzodioxin	1141
+58	343	Methyl Methanesulfonate	1141
+81	343	cobaltous chloride	1141
+104	343	Phenylmercuric Acetate	1141
+112	343	tris(1,3-dichloro-2-propyl)phosphate	1141
+141	343	Nickel	1141
+218	343	ICG 001	1141
+225	343	butyraldehyde	1141
+247	343	dicrotophos	1141
+291	343	Arsenic Trioxide	1141
+306	343	methylmercuric chloride	1141
+338	343	Benzo(a)pyrene	1141
+369	343	Silicon Dioxide	1141
+429	343	Arsenic	1141
+433	343	potassium chromate(VI)	1141
+500	343	Aflatoxin B1	1141
+545	343	Lead	1141
+568	343	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	1141
+590	343	sodium arsenite	1141
+55	347	Tetrachlorodibenzodioxin	23411
+58	347	Methyl Methanesulfonate	23411
+104	347	Phenylmercuric Acetate	23411
+112	347	tris(1,3-dichloro-2-propyl)phosphate	23411
+141	347	Nickel	23411
+218	347	ICG 001	23411
+225	347	butyraldehyde	23411
+247	347	dicrotophos	23411
+306	347	methylmercuric chloride	23411
+338	347	Benzo(a)pyrene	23411
+429	347	Arsenic	23411
+433	347	potassium chromate(VI)	23411
+500	347	Aflatoxin B1	23411
+545	347	Lead	23411
+568	347	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	23411
+58	349	Methyl Methanesulfonate	183
+81	349	cobaltous chloride	183
+104	349	Phenylmercuric Acetate	183
+247	349	dicrotophos	183
+291	349	Arsenic Trioxide	183
+306	349	methylmercuric chloride	183
+429	349	Arsenic	183
+433	349	potassium chromate(VI)	183
+568	349	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	183
+58	359	Methyl Methanesulfonate	25976
+104	359	Phenylmercuric Acetate	25976
+112	359	tris(1,3-dichloro-2-propyl)phosphate	25976
+218	359	ICG 001	25976
+247	359	dicrotophos	25976
+429	359	Arsenic	25976
+433	359	potassium chromate(VI)	25976
+590	359	sodium arsenite	25976
+104	364	Phenylmercuric Acetate	834
+112	364	tris(1,3-dichloro-2-propyl)phosphate	834
+218	364	ICG 001	834
+225	364	butyraldehyde	834
+306	364	methylmercuric chloride	834
+429	364	Arsenic	834
+545	364	Lead	834
+568	364	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	834
+590	364	sodium arsenite	834
+58	365	Methyl Methanesulfonate	8648
+81	365	cobaltous chloride	8648
+104	365	Phenylmercuric Acetate	8648
+141	365	Nickel	8648
+247	365	dicrotophos	8648
+291	365	Arsenic Trioxide	8648
+306	365	methylmercuric chloride	8648
+369	365	Silicon Dioxide	8648
+429	365	Arsenic	8648
+588	365	abrine	8648
+590	365	sodium arsenite	8648
+112	388	tris(1,3-dichloro-2-propyl)phosphate	901
+218	388	ICG 001	901
+429	388	Arsenic	901
+433	388	potassium chromate(VI)	901
+545	388	Lead	901
+588	388	abrine	901
+55	390	Tetrachlorodibenzodioxin	23643
+141	390	Nickel	23643
+218	390	ICG 001	23643
+247	390	dicrotophos	23643
+306	390	methylmercuric chloride	23643
+429	390	Arsenic	23643
+433	390	potassium chromate(VI)	23643
+545	390	Lead	23643
+568	390	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	23643
+58	392	Methyl Methanesulfonate	1509
+112	392	tris(1,3-dichloro-2-propyl)phosphate	1509
+141	392	Nickel	1509
+218	392	ICG 001	1509
+225	392	butyraldehyde	1509
+247	392	dicrotophos	1509
+306	392	methylmercuric chloride	1509
+433	392	potassium chromate(VI)	1509
+588	392	abrine	1509
+112	394	tris(1,3-dichloro-2-propyl)phosphate	1499
+141	394	Nickel	1499
+225	394	butyraldehyde	1499
+369	394	Silicon Dioxide	1499
+433	394	potassium chromate(VI)	1499
+500	394	Aflatoxin B1	1499
+545	394	Lead	1499
+568	394	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	1499
+588	394	abrine	1499
+55	396	Tetrachlorodibenzodioxin	1890
+58	396	Methyl Methanesulfonate	1890
+81	396	cobaltous chloride	1890
+104	396	Phenylmercuric Acetate	1890
+112	396	tris(1,3-dichloro-2-propyl)phosphate	1890
+218	396	ICG 001	1890
+225	396	butyraldehyde	1890
+247	396	dicrotophos	1890
+306	396	methylmercuric chloride	1890
+338	396	Benzo(a)pyrene	1890
+429	396	Arsenic	1890
+433	396	potassium chromate(VI)	1890
+500	396	Aflatoxin B1	1890
+545	396	Lead	1890
+568	396	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	1890
+590	396	sodium arsenite	1890
+55	402	Tetrachlorodibenzodioxin	26651
+58	402	Methyl Methanesulfonate	26651
+81	402	cobaltous chloride	26651
+104	402	Phenylmercuric Acetate	26651
+112	402	tris(1,3-dichloro-2-propyl)phosphate	26651
+141	402	Nickel	26651
+218	402	ICG 001	26651
+225	402	butyraldehyde	26651
+247	402	dicrotophos	26651
+291	402	Arsenic Trioxide	26651
+306	402	methylmercuric chloride	26651
+338	402	Benzo(a)pyrene	26651
+369	402	Silicon Dioxide	26651
+429	402	Arsenic	26651
+433	402	potassium chromate(VI)	26651
+500	402	Aflatoxin B1	26651
+545	402	Lead	26651
+568	402	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	26651
+588	402	abrine	26651
+590	402	sodium arsenite	26651
+55	408	Tetrachlorodibenzodioxin	85480
+58	408	Methyl Methanesulfonate	85480
+81	408	cobaltous chloride	85480
+112	408	tris(1,3-dichloro-2-propyl)phosphate	85480
+141	408	Nickel	85480
+218	408	ICG 001	85480
+225	408	butyraldehyde	85480
+247	408	dicrotophos	85480
+291	408	Arsenic Trioxide	85480
+306	408	methylmercuric chloride	85480
+433	408	potassium chromate(VI)	85480
+545	408	Lead	85480
+590	408	sodium arsenite	85480
+58	412	Methyl Methanesulfonate	5743
+104	412	Phenylmercuric Acetate	5743
+247	412	dicrotophos	5743
+433	412	potassium chromate(VI)	5743
+58	413	Methyl Methanesulfonate	2309
+104	413	Phenylmercuric Acetate	2309
+141	413	Nickel	2309
+218	413	ICG 001	2309
+225	413	butyraldehyde	2309
+247	413	dicrotophos	2309
+306	413	methylmercuric chloride	2309
+369	413	Silicon Dioxide	2309
+429	413	Arsenic	2309
+433	413	potassium chromate(VI)	2309
+568	413	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	2309
+104	414	Phenylmercuric Acetate	5594
+112	414	tris(1,3-dichloro-2-propyl)phosphate	5594
+225	414	butyraldehyde	5594
+247	414	dicrotophos	5594
+306	414	methylmercuric chloride	5594
+588	414	abrine	5594
+58	416	Methyl Methanesulfonate	10413
+81	416	cobaltous chloride	10413
+112	416	tris(1,3-dichloro-2-propyl)phosphate	10413
+141	416	Nickel	10413
+218	416	ICG 001	10413
+225	416	butyraldehyde	10413
+247	416	dicrotophos	10413
+291	416	Arsenic Trioxide	10413
+369	416	Silicon Dioxide	10413
+429	416	Arsenic	10413
+433	416	potassium chromate(VI)	10413
+545	416	Lead	10413
+588	416	abrine	10413
+58	420	Methyl Methanesulfonate	3309
+81	420	cobaltous chloride	3309
+104	420	Phenylmercuric Acetate	3309
+141	420	Nickel	3309
+225	420	butyraldehyde	3309
+247	420	dicrotophos	3309
+306	420	methylmercuric chloride	3309
+433	420	potassium chromate(VI)	3309
+568	420	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3309
+58	425	Methyl Methanesulfonate	4318
+81	425	cobaltous chloride	4318
+104	425	Phenylmercuric Acetate	4318
+112	425	tris(1,3-dichloro-2-propyl)phosphate	4318
+218	425	ICG 001	4318
+247	425	dicrotophos	4318
+306	425	methylmercuric chloride	4318
+433	425	potassium chromate(VI)	4318
+545	425	Lead	4318
+568	425	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	4318
+55	429	Tetrachlorodibenzodioxin	8795
+141	429	Nickel	8795
+218	429	ICG 001	8795
+225	429	butyraldehyde	8795
+247	429	dicrotophos	8795
+433	429	potassium chromate(VI)	8795
+545	429	Lead	8795
+58	430	Methyl Methanesulfonate	842
+104	430	Phenylmercuric Acetate	842
+225	430	butyraldehyde	842
+247	430	dicrotophos	842
+306	430	methylmercuric chloride	842
+433	430	potassium chromate(VI)	842
+588	430	abrine	842
+104	431	Phenylmercuric Acetate	672
+112	431	tris(1,3-dichloro-2-propyl)phosphate	672
+141	431	Nickel	672
+218	431	ICG 001	672
+225	431	butyraldehyde	672
+247	431	dicrotophos	672
+306	431	methylmercuric chloride	672
+369	431	Silicon Dioxide	672
+500	431	Aflatoxin B1	672
+545	431	Lead	672
+55	436	Tetrachlorodibenzodioxin	387758
+58	436	Methyl Methanesulfonate	387758
+81	436	cobaltous chloride	387758
+112	436	tris(1,3-dichloro-2-propyl)phosphate	387758
+218	436	ICG 001	387758
+225	436	butyraldehyde	387758
+247	436	dicrotophos	387758
+291	436	Arsenic Trioxide	387758
+306	436	methylmercuric chloride	387758
+338	436	Benzo(a)pyrene	387758
+369	436	Silicon Dioxide	387758
+429	436	Arsenic	387758
+433	436	potassium chromate(VI)	387758
+545	436	Lead	387758
+568	436	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	387758
+588	436	abrine	387758
+590	436	sodium arsenite	387758
+218	438	ICG 001	467
+247	438	dicrotophos	467
+429	438	Arsenic	467
+545	438	Lead	467
+58	444	Methyl Methanesulfonate	1956
+141	444	Nickel	1956
+218	444	ICG 001	1956
+225	444	butyraldehyde	1956
+500	444	Aflatoxin B1	1956
+545	444	Lead	1956
+58	450	Methyl Methanesulfonate	1545
+112	450	tris(1,3-dichloro-2-propyl)phosphate	1545
+218	450	ICG 001	1545
+225	450	butyraldehyde	1545
+247	450	dicrotophos	1545
+545	450	Lead	1545
+55	454	Tetrachlorodibenzodioxin	5617
+58	454	Methyl Methanesulfonate	5617
+81	454	cobaltous chloride	5617
+104	454	Phenylmercuric Acetate	5617
+112	454	tris(1,3-dichloro-2-propyl)phosphate	5617
+141	454	Nickel	5617
+218	454	ICG 001	5617
+225	454	butyraldehyde	5617
+247	454	dicrotophos	5617
+291	454	Arsenic Trioxide	5617
+306	454	methylmercuric chloride	5617
+338	454	Benzo(a)pyrene	5617
+369	454	Silicon Dioxide	5617
+433	454	potassium chromate(VI)	5617
+500	454	Aflatoxin B1	5617
+568	454	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	5617
+588	454	abrine	5617
+58	455	Methyl Methanesulfonate	3383
+104	455	Phenylmercuric Acetate	3383
+112	455	tris(1,3-dichloro-2-propyl)phosphate	3383
+433	455	potassium chromate(VI)	3383
+545	455	Lead	3383
+58	456	Methyl Methanesulfonate	3553
+104	456	Phenylmercuric Acetate	3553
+112	456	tris(1,3-dichloro-2-propyl)phosphate	3553
+218	456	ICG 001	3553
+225	456	butyraldehyde	3553
+247	456	dicrotophos	3553
+306	456	methylmercuric chloride	3553
+433	456	potassium chromate(VI)	3553
+500	456	Aflatoxin B1	3553
+545	456	Lead	3553
+568	456	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3553
+104	457	Phenylmercuric Acetate	142
+112	457	tris(1,3-dichloro-2-propyl)phosphate	142
+218	457	ICG 001	142
+225	457	butyraldehyde	142
+247	457	dicrotophos	142
+568	457	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	142
+58	458	Methyl Methanesulfonate	5055
+81	458	cobaltous chloride	5055
+112	458	tris(1,3-dichloro-2-propyl)phosphate	5055
+218	458	ICG 001	5055
+225	458	butyraldehyde	5055
+247	458	dicrotophos	5055
+306	458	methylmercuric chloride	5055
+429	458	Arsenic	5055
+433	458	potassium chromate(VI)	5055
+545	458	Lead	5055
+55	460	Tetrachlorodibenzodioxin	3145
+104	460	Phenylmercuric Acetate	3145
+112	460	tris(1,3-dichloro-2-propyl)phosphate	3145
+218	460	ICG 001	3145
+225	460	butyraldehyde	3145
+247	460	dicrotophos	3145
+306	460	methylmercuric chloride	3145
+369	460	Silicon Dioxide	3145
+429	460	Arsenic	3145
+433	460	potassium chromate(VI)	3145
+500	460	Aflatoxin B1	3145
+545	460	Lead	3145
+568	460	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3145
+588	460	abrine	3145
+590	460	sodium arsenite	3145
+55	462	Tetrachlorodibenzodioxin	6622
+58	462	Methyl Methanesulfonate	6622
+104	462	Phenylmercuric Acetate	6622
+112	462	tris(1,3-dichloro-2-propyl)phosphate	6622
+218	462	ICG 001	6622
+247	462	dicrotophos	6622
+306	462	methylmercuric chloride	6622
+433	462	potassium chromate(VI)	6622
+500	462	Aflatoxin B1	6622
+568	462	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	6622
+218	472	ICG 001	581
+225	472	butyraldehyde	581
+433	472	potassium chromate(VI)	581
+588	472	abrine	581
+55	473	Tetrachlorodibenzodioxin	9970
+58	473	Methyl Methanesulfonate	9970
+81	473	cobaltous chloride	9970
+104	473	Phenylmercuric Acetate	9970
+112	473	tris(1,3-dichloro-2-propyl)phosphate	9970
+141	473	Nickel	9970
+218	473	ICG 001	9970
+225	473	butyraldehyde	9970
+247	473	dicrotophos	9970
+291	473	Arsenic Trioxide	9970
+306	473	methylmercuric chloride	9970
+369	473	Silicon Dioxide	9970
+429	473	Arsenic	9970
+433	473	potassium chromate(VI)	9970
+545	473	Lead	9970
+568	473	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	9970
+588	473	abrine	9970
+58	476	Methyl Methanesulfonate	5447
+81	476	cobaltous chloride	5447
+104	476	Phenylmercuric Acetate	5447
+141	476	Nickel	5447
+218	476	ICG 001	5447
+225	476	butyraldehyde	5447
+247	476	dicrotophos	5447
+291	476	Arsenic Trioxide	5447
+306	476	methylmercuric chloride	5447
+369	476	Silicon Dioxide	5447
+429	476	Arsenic	5447
+433	476	potassium chromate(VI)	5447
+545	476	Lead	5447
+568	476	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	5447
+55	494	Tetrachlorodibenzodioxin	4363
+58	494	Methyl Methanesulfonate	4363
+81	494	cobaltous chloride	4363
+104	494	Phenylmercuric Acetate	4363
+112	494	tris(1,3-dichloro-2-propyl)phosphate	4363
+306	494	methylmercuric chloride	4363
+369	494	Silicon Dioxide	4363
+433	494	potassium chromate(VI)	4363
+545	494	Lead	4363
+58	497	Methyl Methanesulfonate	1543
+104	497	Phenylmercuric Acetate	1543
+141	497	Nickel	1543
+218	497	ICG 001	1543
+433	497	potassium chromate(VI)	1543
+55	504	Tetrachlorodibenzodioxin	9241
+58	504	Methyl Methanesulfonate	9241
+81	504	cobaltous chloride	9241
+112	504	tris(1,3-dichloro-2-propyl)phosphate	9241
+218	504	ICG 001	9241
+247	504	dicrotophos	9241
+291	504	Arsenic Trioxide	9241
+369	504	Silicon Dioxide	9241
+429	504	Arsenic	9241
+433	504	potassium chromate(VI)	9241
+500	504	Aflatoxin B1	9241
+568	504	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	9241
+58	511	Methyl Methanesulfonate	5599
+104	511	Phenylmercuric Acetate	5599
+141	511	Nickel	5599
+218	511	ICG 001	5599
+306	511	methylmercuric chloride	5599
+500	511	Aflatoxin B1	5599
+545	511	Lead	5599
+588	511	abrine	5599
+55	512	Tetrachlorodibenzodioxin	3172
+81	512	cobaltous chloride	3172
+104	512	Phenylmercuric Acetate	3172
+112	512	tris(1,3-dichloro-2-propyl)phosphate	3172
+141	512	Nickel	3172
+218	512	ICG 001	3172
+291	512	Arsenic Trioxide	3172
+306	512	methylmercuric chloride	3172
+429	512	Arsenic	3172
+433	512	potassium chromate(VI)	3172
+545	512	Lead	3172
+568	512	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3172
+81	518	cobaltous chloride	3725
+112	518	tris(1,3-dichloro-2-propyl)phosphate	3725
+247	518	dicrotophos	3725
+433	518	potassium chromate(VI)	3725
+58	520	Methyl Methanesulfonate	2002
+104	520	Phenylmercuric Acetate	2002
+112	520	tris(1,3-dichloro-2-propyl)phosphate	2002
+141	520	Nickel	2002
+225	520	butyraldehyde	2002
+291	520	Arsenic Trioxide	2002
+306	520	methylmercuric chloride	2002
+369	520	Silicon Dioxide	2002
+429	520	Arsenic	2002
+545	520	Lead	2002
+568	520	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	2002
+58	522	Methyl Methanesulfonate	1432
+104	522	Phenylmercuric Acetate	1432
+112	522	tris(1,3-dichloro-2-propyl)phosphate	1432
+218	522	ICG 001	1432
+225	522	butyraldehyde	1432
+247	522	dicrotophos	1432
+306	522	methylmercuric chloride	1432
+369	522	Silicon Dioxide	1432
+545	522	Lead	1432
+568	522	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	1432
+55	526	Tetrachlorodibenzodioxin	3757
+58	526	Methyl Methanesulfonate	3757
+104	526	Phenylmercuric Acetate	3757
+112	526	tris(1,3-dichloro-2-propyl)phosphate	3757
+141	526	Nickel	3757
+218	526	ICG 001	3757
+247	526	dicrotophos	3757
+369	526	Silicon Dioxide	3757
+433	526	potassium chromate(VI)	3757
+545	526	Lead	3757
+568	526	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3757
+55	528	Tetrachlorodibenzodioxin	80335
+81	528	cobaltous chloride	80335
+104	528	Phenylmercuric Acetate	80335
+112	528	tris(1,3-dichloro-2-propyl)phosphate	80335
+141	528	Nickel	80335
+218	528	ICG 001	80335
+225	528	butyraldehyde	80335
+247	528	dicrotophos	80335
+306	528	methylmercuric chloride	80335
+338	528	Benzo(a)pyrene	80335
+369	528	Silicon Dioxide	80335
+433	528	potassium chromate(VI)	80335
+500	528	Aflatoxin B1	80335
+545	528	Lead	80335
+588	528	abrine	80335
+55	532	Tetrachlorodibenzodioxin	7098
+58	532	Methyl Methanesulfonate	7098
+81	532	cobaltous chloride	7098
+112	532	tris(1,3-dichloro-2-propyl)phosphate	7098
+141	532	Nickel	7098
+218	532	ICG 001	7098
+225	532	butyraldehyde	7098
+247	532	dicrotophos	7098
+306	532	methylmercuric chloride	7098
+338	532	Benzo(a)pyrene	7098
+429	532	Arsenic	7098
+545	532	Lead	7098
+568	532	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	7098
+104	533	Phenylmercuric Acetate	3479
+218	533	ICG 001	3479
+225	533	butyraldehyde	3479
+247	533	dicrotophos	3479
+306	533	methylmercuric chloride	3479
+369	533	Silicon Dioxide	3479
+433	533	potassium chromate(VI)	3479
+568	533	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3479
+588	533	abrine	3479
+81	534	cobaltous chloride	1977
+104	534	Phenylmercuric Acetate	1977
+112	534	tris(1,3-dichloro-2-propyl)phosphate	1977
+141	534	Nickel	1977
+218	534	ICG 001	1977
+225	534	butyraldehyde	1977
+306	534	methylmercuric chloride	1977
+338	534	Benzo(a)pyrene	1977
+369	534	Silicon Dioxide	1977
+429	534	Arsenic	1977
+433	534	potassium chromate(VI)	1977
+500	534	Aflatoxin B1	1977
+545	534	Lead	1977
+588	534	abrine	1977
+55	535	Tetrachlorodibenzodioxin	351
+58	535	Methyl Methanesulfonate	351
+104	535	Phenylmercuric Acetate	351
+112	535	tris(1,3-dichloro-2-propyl)phosphate	351
+225	535	butyraldehyde	351
+247	535	dicrotophos	351
+306	535	methylmercuric chloride	351
+433	535	potassium chromate(VI)	351
+500	535	Aflatoxin B1	351
+568	535	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	351
+588	535	abrine	351
+58	536	Methyl Methanesulfonate	5315
+141	536	Nickel	5315
+225	536	butyraldehyde	5315
+433	536	potassium chromate(VI)	5315
+545	536	Lead	5315
+58	540	Methyl Methanesulfonate	4313
+112	540	tris(1,3-dichloro-2-propyl)phosphate	4313
+218	540	ICG 001	4313
+225	540	butyraldehyde	4313
+247	540	dicrotophos	4313
+369	540	Silicon Dioxide	4313
+545	540	Lead	4313
+58	541	Methyl Methanesulfonate	7422
+104	541	Phenylmercuric Acetate	7422
+218	541	ICG 001	7422
+247	541	dicrotophos	7422
+500	541	Aflatoxin B1	7422
+568	541	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	7422
+58	547	Methyl Methanesulfonate	847
+104	547	Phenylmercuric Acetate	847
+112	547	tris(1,3-dichloro-2-propyl)phosphate	847
+225	547	butyraldehyde	847
+247	547	dicrotophos	847
+306	547	methylmercuric chloride	847
+568	547	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	847
+55	549	Tetrachlorodibenzodioxin	2056
+58	549	Methyl Methanesulfonate	2056
+104	549	Phenylmercuric Acetate	2056
+141	549	Nickel	2056
+218	549	ICG 001	2056
+225	549	butyraldehyde	2056
+247	549	dicrotophos	2056
+291	549	Arsenic Trioxide	2056
+306	549	methylmercuric chloride	2056
+369	549	Silicon Dioxide	2056
+429	549	Arsenic	2056
+433	549	potassium chromate(VI)	2056
+545	549	Lead	2056
+568	549	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	2056
+588	549	abrine	2056
+590	549	sodium arsenite	2056
+55	558	Tetrachlorodibenzodioxin	9817
+58	558	Methyl Methanesulfonate	9817
+112	558	tris(1,3-dichloro-2-propyl)phosphate	9817
+218	558	ICG 001	9817
+225	558	butyraldehyde	9817
+247	558	dicrotophos	9817
+306	558	methylmercuric chloride	9817
+433	558	potassium chromate(VI)	9817
+500	558	Aflatoxin B1	9817
+588	558	abrine	9817
+55	561	Tetrachlorodibenzodioxin	642574
+58	561	Methyl Methanesulfonate	642574
+81	561	cobaltous chloride	642574
+104	561	Phenylmercuric Acetate	642574
+112	561	tris(1,3-dichloro-2-propyl)phosphate	642574
+141	561	Nickel	642574
+218	561	ICG 001	642574
+225	561	butyraldehyde	642574
+247	561	dicrotophos	642574
+291	561	Arsenic Trioxide	642574
+306	561	methylmercuric chloride	642574
+338	561	Benzo(a)pyrene	642574
+369	561	Silicon Dioxide	642574
+429	561	Arsenic	642574
+433	561	potassium chromate(VI)	642574
+545	561	Lead	642574
+568	561	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	642574
+588	561	abrine	642574
+590	561	sodium arsenite	642574
+58	565	Methyl Methanesulfonate	366
+81	565	cobaltous chloride	366
+104	565	Phenylmercuric Acetate	366
+112	565	tris(1,3-dichloro-2-propyl)phosphate	366
+141	565	Nickel	366
+218	565	ICG 001	366
+225	565	butyraldehyde	366
+247	565	dicrotophos	366
+306	565	methylmercuric chloride	366
+369	565	Silicon Dioxide	366
+433	565	potassium chromate(VI)	366
+545	565	Lead	366
+568	565	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	366
+81	572	cobaltous chloride	8743
+104	572	Phenylmercuric Acetate	8743
+218	572	ICG 001	8743
+225	572	butyraldehyde	8743
+306	572	methylmercuric chloride	8743
+545	572	Lead	8743
+568	572	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	8743
+55	574	Tetrachlorodibenzodioxin	9938
+58	574	Methyl Methanesulfonate	9938
+81	574	cobaltous chloride	9938
+104	574	Phenylmercuric Acetate	9938
+218	574	ICG 001	9938
+225	574	butyraldehyde	9938
+247	574	dicrotophos	9938
+291	574	Arsenic Trioxide	9938
+306	574	methylmercuric chloride	9938
+429	574	Arsenic	9938
+433	574	potassium chromate(VI)	9938
+545	574	Lead	9938
+568	574	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	9938
+588	574	abrine	9938
+590	574	sodium arsenite	9938
+58	590	Methyl Methanesulfonate	654
+104	590	Phenylmercuric Acetate	654
+218	590	ICG 001	654
+247	590	dicrotophos	654
+291	590	Arsenic Trioxide	654
+306	590	methylmercuric chloride	654
+429	590	Arsenic	654
+433	590	potassium chromate(VI)	654
+500	590	Aflatoxin B1	654
+545	590	Lead	654
+568	590	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	654
+58	591	Methyl Methanesulfonate	1591
+104	591	Phenylmercuric Acetate	1591
+225	591	butyraldehyde	1591
+306	591	methylmercuric chloride	1591
+429	591	Arsenic	1591
+433	591	potassium chromate(VI)	1591
+545	591	Lead	1591
+55	592	Tetrachlorodibenzodioxin	406
+58	592	Methyl Methanesulfonate	406
+81	592	cobaltous chloride	406
+104	592	Phenylmercuric Acetate	406
+112	592	tris(1,3-dichloro-2-propyl)phosphate	406
+141	592	Nickel	406
+218	592	ICG 001	406
+225	592	butyraldehyde	406
+247	592	dicrotophos	406
+291	592	Arsenic Trioxide	406
+306	592	methylmercuric chloride	406
+369	592	Silicon Dioxide	406
+590	592	sodium arsenite	406
+58	596	Methyl Methanesulfonate	4170
+104	596	Phenylmercuric Acetate	4170
+218	596	ICG 001	4170
+225	596	butyraldehyde	4170
+247	596	dicrotophos	4170
+306	596	methylmercuric chloride	4170
+369	596	Silicon Dioxide	4170
+545	596	Lead	4170
+58	598	Methyl Methanesulfonate	598
+81	598	cobaltous chloride	598
+141	598	Nickel	598
+225	598	butyraldehyde	598
+247	598	dicrotophos	598
+306	598	methylmercuric chloride	598
+369	598	Silicon Dioxide	598
+433	598	potassium chromate(VI)	598
+545	598	Lead	598
+588	598	abrine	598
+58	606	Methyl Methanesulfonate	7015
+81	606	cobaltous chloride	7015
+104	606	Phenylmercuric Acetate	7015
+141	606	Nickel	7015
+218	606	ICG 001	7015
+225	606	butyraldehyde	7015
+306	606	methylmercuric chloride	7015
+338	606	Benzo(a)pyrene	7015
+433	606	potassium chromate(VI)	7015
+545	606	Lead	7015
+568	606	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	7015
+588	606	abrine	7015
+55	607	Tetrachlorodibenzodioxin	56547
+58	607	Methyl Methanesulfonate	56547
+81	607	cobaltous chloride	56547
+104	607	Phenylmercuric Acetate	56547
+112	607	tris(1,3-dichloro-2-propyl)phosphate	56547
+141	607	Nickel	56547
+218	607	ICG 001	56547
+225	607	butyraldehyde	56547
+247	607	dicrotophos	56547
+291	607	Arsenic Trioxide	56547
+306	607	methylmercuric chloride	56547
+369	607	Silicon Dioxide	56547
+429	607	Arsenic	56547
+433	607	potassium chromate(VI)	56547
+545	607	Lead	56547
+568	607	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	56547
+588	607	abrine	56547
+590	607	sodium arsenite	56547
+55	624	Tetrachlorodibenzodioxin	5601
+58	624	Methyl Methanesulfonate	5601
+104	624	Phenylmercuric Acetate	5601
+112	624	tris(1,3-dichloro-2-propyl)phosphate	5601
+141	624	Nickel	5601
+218	624	ICG 001	5601
+225	624	butyraldehyde	5601
+247	624	dicrotophos	5601
+306	624	methylmercuric chloride	5601
+338	624	Benzo(a)pyrene	5601
+433	624	potassium chromate(VI)	5601
+55	625	Tetrachlorodibenzodioxin	7494
+58	625	Methyl Methanesulfonate	7494
+104	625	Phenylmercuric Acetate	7494
+141	625	Nickel	7494
+247	625	dicrotophos	7494
+429	625	Arsenic	7494
+433	625	potassium chromate(VI)	7494
+545	625	Lead	7494
+588	625	abrine	7494
+81	628	cobaltous chloride	3043
+104	628	Phenylmercuric Acetate	3043
+112	628	tris(1,3-dichloro-2-propyl)phosphate	3043
+218	628	ICG 001	3043
+225	628	butyraldehyde	3043
+247	628	dicrotophos	3043
+306	628	methylmercuric chloride	3043
+338	628	Benzo(a)pyrene	3043
+429	628	Arsenic	3043
+433	628	potassium chromate(VI)	3043
+568	628	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3043
+81	632	cobaltous chloride	6566
+104	632	Phenylmercuric Acetate	6566
+112	632	tris(1,3-dichloro-2-propyl)phosphate	6566
+218	632	ICG 001	6566
+225	632	butyraldehyde	6566
+247	632	dicrotophos	6566
+291	632	Arsenic Trioxide	6566
+338	632	Benzo(a)pyrene	6566
+369	632	Silicon Dioxide	6566
+429	632	Arsenic	6566
+500	632	Aflatoxin B1	6566
+545	632	Lead	6566
+568	632	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	6566
+588	632	abrine	6566
+58	634	Methyl Methanesulfonate	1571
+81	634	cobaltous chloride	1571
+104	634	Phenylmercuric Acetate	1571
+112	634	tris(1,3-dichloro-2-propyl)phosphate	1571
+141	634	Nickel	1571
+218	634	ICG 001	1571
+225	634	butyraldehyde	1571
+247	634	dicrotophos	1571
+306	634	methylmercuric chloride	1571
+369	634	Silicon Dioxide	1571
+433	634	potassium chromate(VI)	1571
+545	634	Lead	1571
+568	634	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	1571
+55	642	Tetrachlorodibenzodioxin	22846
+58	642	Methyl Methanesulfonate	22846
+81	642	cobaltous chloride	22846
+112	642	tris(1,3-dichloro-2-propyl)phosphate	22846
+141	642	Nickel	22846
+218	642	ICG 001	22846
+225	642	butyraldehyde	22846
+247	642	dicrotophos	22846
+306	642	methylmercuric chloride	22846
+338	642	Benzo(a)pyrene	22846
+369	642	Silicon Dioxide	22846
+433	642	potassium chromate(VI)	22846
+545	642	Lead	22846
+568	642	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	22846
+590	642	sodium arsenite	22846
+218	646	ICG 001	1728
+225	646	butyraldehyde	1728
+247	646	dicrotophos	1728
+58	647	Methyl Methanesulfonate	6647
+104	647	Phenylmercuric Acetate	6647
+112	647	tris(1,3-dichloro-2-propyl)phosphate	6647
+141	647	Nickel	6647
+225	647	butyraldehyde	6647
+369	647	Silicon Dioxide	6647
+433	647	potassium chromate(VI)	6647
+588	647	abrine	6647
+58	649	Methyl Methanesulfonate	5970
+104	649	Phenylmercuric Acetate	5970
+112	649	tris(1,3-dichloro-2-propyl)phosphate	5970
+225	649	butyraldehyde	5970
+433	649	potassium chromate(VI)	5970
+500	649	Aflatoxin B1	5970
+58	651	Methyl Methanesulfonate	7031
+81	651	cobaltous chloride	7031
+104	651	Phenylmercuric Acetate	7031
+112	651	tris(1,3-dichloro-2-propyl)phosphate	7031
+141	651	Nickel	7031
+218	651	ICG 001	7031
+247	651	dicrotophos	7031
+306	651	methylmercuric chloride	7031
+429	651	Arsenic	7031
+433	651	potassium chromate(VI)	7031
+500	651	Aflatoxin B1	7031
+545	651	Lead	7031
+568	651	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	7031
+58	652	Methyl Methanesulfonate	3169
+81	652	cobaltous chloride	3169
+104	652	Phenylmercuric Acetate	3169
+141	652	Nickel	3169
+218	652	ICG 001	3169
+306	652	methylmercuric chloride	3169
+429	652	Arsenic	3169
+433	652	potassium chromate(VI)	3169
+545	652	Lead	3169
+568	652	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3169
+588	652	abrine	3169
+590	652	sodium arsenite	3169
+55	654	Tetrachlorodibenzodioxin	387
+58	654	Methyl Methanesulfonate	387
+81	654	cobaltous chloride	387
+104	654	Phenylmercuric Acetate	387
+112	654	tris(1,3-dichloro-2-propyl)phosphate	387
+141	654	Nickel	387
+218	654	ICG 001	387
+225	654	butyraldehyde	387
+247	654	dicrotophos	387
+306	654	methylmercuric chloride	387
+338	654	Benzo(a)pyrene	387
+369	654	Silicon Dioxide	387
+429	654	Arsenic	387
+433	654	potassium chromate(VI)	387
+545	654	Lead	387
+568	654	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	387
+588	654	abrine	387
+590	654	sodium arsenite	387
+58	665	Methyl Methanesulfonate	1581
+81	665	cobaltous chloride	1581
+104	665	Phenylmercuric Acetate	1581
+112	665	tris(1,3-dichloro-2-propyl)phosphate	1581
+141	665	Nickel	1581
+218	665	ICG 001	1581
+225	665	butyraldehyde	1581
+291	665	Arsenic Trioxide	1581
+306	665	methylmercuric chloride	1581
+369	665	Silicon Dioxide	1581
+429	665	Arsenic	1581
+433	665	potassium chromate(VI)	1581
+545	665	Lead	1581
+568	665	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	1581
+58	666	Methyl Methanesulfonate	3484
+81	666	cobaltous chloride	3484
+104	666	Phenylmercuric Acetate	3484
+141	666	Nickel	3484
+218	666	ICG 001	3484
+247	666	dicrotophos	3484
+306	666	methylmercuric chloride	3484
+429	666	Arsenic	3484
+433	666	potassium chromate(VI)	3484
+545	666	Lead	3484
+588	666	abrine	3484
+590	666	sodium arsenite	3484
+545	667	Lead	1649
+55	669	Tetrachlorodibenzodioxin	8678
+58	669	Methyl Methanesulfonate	8678
+104	669	Phenylmercuric Acetate	8678
+141	669	Nickel	8678
+218	669	ICG 001	8678
+225	669	butyraldehyde	8678
+247	669	dicrotophos	8678
+306	669	methylmercuric chloride	8678
+369	669	Silicon Dioxide	8678
+433	669	potassium chromate(VI)	8678
+500	669	Aflatoxin B1	8678
+545	669	Lead	8678
+568	669	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	8678
+588	669	abrine	8678
+55	670	Tetrachlorodibenzodioxin	2561
+58	670	Methyl Methanesulfonate	2561
+81	670	cobaltous chloride	2561
+104	670	Phenylmercuric Acetate	2561
+112	670	tris(1,3-dichloro-2-propyl)phosphate	2561
+218	670	ICG 001	2561
+225	670	butyraldehyde	2561
+247	670	dicrotophos	2561
+291	670	Arsenic Trioxide	2561
+306	670	methylmercuric chloride	2561
+338	670	Benzo(a)pyrene	2561
+369	670	Silicon Dioxide	2561
+429	670	Arsenic	2561
+433	670	potassium chromate(VI)	2561
+545	670	Lead	2561
+568	670	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	2561
+588	670	abrine	2561
+590	670	sodium arsenite	2561
+55	675	Tetrachlorodibenzodioxin	7050
+58	675	Methyl Methanesulfonate	7050
+81	675	cobaltous chloride	7050
+104	675	Phenylmercuric Acetate	7050
+141	675	Nickel	7050
+218	675	ICG 001	7050
+225	675	butyraldehyde	7050
+247	675	dicrotophos	7050
+306	675	methylmercuric chloride	7050
+369	675	Silicon Dioxide	7050
+429	675	Arsenic	7050
+500	675	Aflatoxin B1	7050
+545	675	Lead	7050
+568	675	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	7050
+588	675	abrine	7050
+55	676	Tetrachlorodibenzodioxin	210
+58	676	Methyl Methanesulfonate	210
+81	676	cobaltous chloride	210
+104	676	Phenylmercuric Acetate	210
+112	676	tris(1,3-dichloro-2-propyl)phosphate	210
+141	676	Nickel	210
+218	676	ICG 001	210
+247	676	dicrotophos	210
+291	676	Arsenic Trioxide	210
+306	676	methylmercuric chloride	210
+369	676	Silicon Dioxide	210
+429	676	Arsenic	210
+433	676	potassium chromate(VI)	210
+568	676	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	210
+55	683	Tetrachlorodibenzodioxin	7209529
+58	683	Methyl Methanesulfonate	7209529
+81	683	cobaltous chloride	7209529
+104	683	Phenylmercuric Acetate	7209529
+112	683	tris(1,3-dichloro-2-propyl)phosphate	7209529
+141	683	Nickel	7209529
+218	683	ICG 001	7209529
+225	683	butyraldehyde	7209529
+247	683	dicrotophos	7209529
+291	683	Arsenic Trioxide	7209529
+306	683	methylmercuric chloride	7209529
+338	683	Benzo(a)pyrene	7209529
+369	683	Silicon Dioxide	7209529
+429	683	Arsenic	7209529
+433	683	potassium chromate(VI)	7209529
+500	683	Aflatoxin B1	7209529
+545	683	Lead	7209529
+568	683	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	7209529
+588	683	abrine	7209529
+590	683	sodium arsenite	7209529
+55	687	Tetrachlorodibenzodioxin	637
+112	687	tris(1,3-dichloro-2-propyl)phosphate	637
+218	687	ICG 001	637
+225	687	butyraldehyde	637
+247	687	dicrotophos	637
+306	687	methylmercuric chloride	637
+369	687	Silicon Dioxide	637
+433	687	potassium chromate(VI)	637
+500	687	Aflatoxin B1	637
+545	687	Lead	637
+568	687	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	637
+588	687	abrine	637
+58	689	Methyl Methanesulfonate	2100
+81	689	cobaltous chloride	2100
+104	689	Phenylmercuric Acetate	2100
+112	689	tris(1,3-dichloro-2-propyl)phosphate	2100
+141	689	Nickel	2100
+218	689	ICG 001	2100
+247	689	dicrotophos	2100
+306	689	methylmercuric chloride	2100
+338	689	Benzo(a)pyrene	2100
+369	689	Silicon Dioxide	2100
+433	689	potassium chromate(VI)	2100
+500	689	Aflatoxin B1	2100
+545	689	Lead	2100
+568	689	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	2100
+55	690	Tetrachlorodibenzodioxin	5371
+112	690	tris(1,3-dichloro-2-propyl)phosphate	5371
+218	690	ICG 001	5371
+225	690	butyraldehyde	5371
+306	690	methylmercuric chloride	5371
+433	690	potassium chromate(VI)	5371
+545	690	Lead	5371
+568	690	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	5371
+588	690	abrine	5371
+58	694	Methyl Methanesulfonate	10599
+81	694	cobaltous chloride	10599
+104	694	Phenylmercuric Acetate	10599
+112	694	tris(1,3-dichloro-2-propyl)phosphate	10599
+141	694	Nickel	10599
+218	694	ICG 001	10599
+247	694	dicrotophos	10599
+291	694	Arsenic Trioxide	10599
+306	694	methylmercuric chloride	10599
+433	694	potassium chromate(VI)	10599
+545	694	Lead	10599
+568	694	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	10599
+58	697	Methyl Methanesulfonate	3565
+81	697	cobaltous chloride	3565
+104	697	Phenylmercuric Acetate	3565
+112	697	tris(1,3-dichloro-2-propyl)phosphate	3565
+218	697	ICG 001	3565
+225	697	butyraldehyde	3565
+247	697	dicrotophos	3565
+306	697	methylmercuric chloride	3565
+369	697	Silicon Dioxide	3565
+433	697	potassium chromate(VI)	3565
+500	697	Aflatoxin B1	3565
+545	697	Lead	3565
+568	697	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3565
+588	697	abrine	3565
+55	698	Tetrachlorodibenzodioxin	8878
+141	698	Nickel	8878
+225	698	butyraldehyde	8878
+247	698	dicrotophos	8878
+500	698	Aflatoxin B1	8878
+568	698	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	8878
+55	700	Tetrachlorodibenzodioxin	2566
+58	700	Methyl Methanesulfonate	2566
+81	700	cobaltous chloride	2566
+104	700	Phenylmercuric Acetate	2566
+112	700	tris(1,3-dichloro-2-propyl)phosphate	2566
+141	700	Nickel	2566
+218	700	ICG 001	2566
+225	700	butyraldehyde	2566
+247	700	dicrotophos	2566
+291	700	Arsenic Trioxide	2566
+306	700	methylmercuric chloride	2566
+369	700	Silicon Dioxide	2566
+429	700	Arsenic	2566
+433	700	potassium chromate(VI)	2566
+500	700	Aflatoxin B1	2566
+568	700	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	2566
+588	700	abrine	2566
+55	704	Tetrachlorodibenzodioxin	2034
+141	704	Nickel	2034
+225	704	butyraldehyde	2034
+291	704	Arsenic Trioxide	2034
+306	704	methylmercuric chloride	2034
+429	704	Arsenic	2034
+433	704	potassium chromate(VI)	2034
+545	704	Lead	2034
+588	704	abrine	2034
+58	706	Methyl Methanesulfonate	196
+104	706	Phenylmercuric Acetate	196
+225	706	butyraldehyde	196
+247	706	dicrotophos	196
+291	706	Arsenic Trioxide	196
+306	706	methylmercuric chloride	196
+369	706	Silicon Dioxide	196
+429	706	Arsenic	196
+433	706	potassium chromate(VI)	196
+545	706	Lead	196
+55	708	Tetrachlorodibenzodioxin	1871
+58	708	Methyl Methanesulfonate	1871
+81	708	cobaltous chloride	1871
+112	708	tris(1,3-dichloro-2-propyl)phosphate	1871
+218	708	ICG 001	1871
+225	708	butyraldehyde	1871
+247	708	dicrotophos	1871
+306	708	methylmercuric chloride	1871
+369	708	Silicon Dioxide	1871
+433	708	potassium chromate(VI)	1871
+500	708	Aflatoxin B1	1871
+545	708	Lead	1871
+588	708	abrine	1871
+55	717	Tetrachlorodibenzodioxin	57412
+58	717	Methyl Methanesulfonate	57412
+81	717	cobaltous chloride	57412
+218	717	ICG 001	57412
+247	717	dicrotophos	57412
+306	717	methylmercuric chloride	57412
+338	717	Benzo(a)pyrene	57412
+433	717	potassium chromate(VI)	57412
+545	717	Lead	57412
+568	717	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	57412
+55	718	Tetrachlorodibenzodioxin	1906
+58	718	Methyl Methanesulfonate	1906
+225	718	butyraldehyde	1906
+247	718	dicrotophos	1906
+429	718	Arsenic	1906
+545	718	Lead	1906
+588	718	abrine	1906
+55	723	Tetrachlorodibenzodioxin	114548
+58	723	Methyl Methanesulfonate	114548
+81	723	cobaltous chloride	114548
+104	723	Phenylmercuric Acetate	114548
+112	723	tris(1,3-dichloro-2-propyl)phosphate	114548
+218	723	ICG 001	114548
+247	723	dicrotophos	114548
+306	723	methylmercuric chloride	114548
+338	723	Benzo(a)pyrene	114548
+433	723	potassium chromate(VI)	114548
+545	723	Lead	114548
+568	723	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	114548
+588	723	abrine	114548
+590	723	sodium arsenite	114548
+104	725	Phenylmercuric Acetate	7157
+112	725	tris(1,3-dichloro-2-propyl)phosphate	7157
+218	725	ICG 001	7157
+306	725	methylmercuric chloride	7157
+588	725	abrine	7157
+58	726	Methyl Methanesulfonate	7296
+112	726	tris(1,3-dichloro-2-propyl)phosphate	7296
+141	726	Nickel	7296
+225	726	butyraldehyde	7296
+247	726	dicrotophos	7296
+433	726	potassium chromate(VI)	7296
+545	726	Lead	7296
+55	737	Tetrachlorodibenzodioxin	6774
+104	737	Phenylmercuric Acetate	6774
+218	737	ICG 001	6774
+225	737	butyraldehyde	6774
+247	737	dicrotophos	6774
+306	737	methylmercuric chloride	6774
+433	737	potassium chromate(VI)	6774
+545	737	Lead	6774
+588	737	abrine	6774
+112	739	tris(1,3-dichloro-2-propyl)phosphate	7040
+218	739	ICG 001	7040
+225	739	butyraldehyde	7040
+306	739	methylmercuric chloride	7040
+500	739	Aflatoxin B1	7040
+545	739	Lead	7040
+568	739	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	7040
+588	739	abrine	7040
+55	741	Tetrachlorodibenzodioxin	6564
+58	741	Methyl Methanesulfonate	6564
+81	741	cobaltous chloride	6564
+104	741	Phenylmercuric Acetate	6564
+112	741	tris(1,3-dichloro-2-propyl)phosphate	6564
+141	741	Nickel	6564
+218	741	ICG 001	6564
+225	741	butyraldehyde	6564
+247	741	dicrotophos	6564
+306	741	methylmercuric chloride	6564
+369	741	Silicon Dioxide	6564
+429	741	Arsenic	6564
+433	741	potassium chromate(VI)	6564
+545	741	Lead	6564
+568	741	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	6564
+588	741	abrine	6564
+590	741	sodium arsenite	6564
+55	743	Tetrachlorodibenzodioxin	7161
+104	743	Phenylmercuric Acetate	7161
+112	743	tris(1,3-dichloro-2-propyl)phosphate	7161
+141	743	Nickel	7161
+218	743	ICG 001	7161
+225	743	butyraldehyde	7161
+247	743	dicrotophos	7161
+306	743	methylmercuric chloride	7161
+369	743	Silicon Dioxide	7161
+433	743	potassium chromate(VI)	7161
+545	743	Lead	7161
+568	743	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	7161
+588	743	abrine	7161
+58	752	Methyl Methanesulfonate	6581
+104	752	Phenylmercuric Acetate	6581
+141	752	Nickel	6581
+218	752	ICG 001	6581
+247	752	dicrotophos	6581
+291	752	Arsenic Trioxide	6581
+306	752	methylmercuric chloride	6581
+429	752	Arsenic	6581
+433	752	potassium chromate(VI)	6581
+545	752	Lead	6581
+568	752	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	6581
+588	752	abrine	6581
+590	752	sodium arsenite	6581
+58	755	Methyl Methanesulfonate	7364
+81	755	cobaltous chloride	7364
+104	755	Phenylmercuric Acetate	7364
+112	755	tris(1,3-dichloro-2-propyl)phosphate	7364
+141	755	Nickel	7364
+218	755	ICG 001	7364
+225	755	butyraldehyde	7364
+291	755	Arsenic Trioxide	7364
+306	755	methylmercuric chloride	7364
+429	755	Arsenic	7364
+433	755	potassium chromate(VI)	7364
+545	755	Lead	7364
+568	755	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	7364
+588	755	abrine	7364
+112	768	tris(1,3-dichloro-2-propyl)phosphate	960
+218	768	ICG 001	960
+225	768	butyraldehyde	960
+247	768	dicrotophos	960
+369	768	Silicon Dioxide	960
+433	768	potassium chromate(VI)	960
+545	768	Lead	960
+568	768	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	960
+55	769	Tetrachlorodibenzodioxin	3276
+104	769	Phenylmercuric Acetate	3276
+112	769	tris(1,3-dichloro-2-propyl)phosphate	3276
+141	769	Nickel	3276
+218	769	ICG 001	3276
+225	769	butyraldehyde	3276
+247	769	dicrotophos	3276
+306	769	methylmercuric chloride	3276
+369	769	Silicon Dioxide	3276
+429	769	Arsenic	3276
+433	769	potassium chromate(VI)	3276
+545	769	Lead	3276
+568	769	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	3276
+55	770	Tetrachlorodibenzodioxin	170679
+58	770	Methyl Methanesulfonate	170679
+81	770	cobaltous chloride	170679
+104	770	Phenylmercuric Acetate	170679
+112	770	tris(1,3-dichloro-2-propyl)phosphate	170679
+141	770	Nickel	170679
+218	770	ICG 001	170679
+225	770	butyraldehyde	170679
+247	770	dicrotophos	170679
+291	770	Arsenic Trioxide	170679
+306	770	methylmercuric chloride	170679
+338	770	Benzo(a)pyrene	170679
+433	770	potassium chromate(VI)	170679
+500	770	Aflatoxin B1	170679
+545	770	Lead	170679
+568	770	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	170679
+588	770	abrine	170679
+590	770	sodium arsenite	170679
+55	773	Tetrachlorodibenzodioxin	2488
+58	773	Methyl Methanesulfonate	2488
+81	773	cobaltous chloride	2488
+104	773	Phenylmercuric Acetate	2488
+112	773	tris(1,3-dichloro-2-propyl)phosphate	2488
+141	773	Nickel	2488
+218	773	ICG 001	2488
+225	773	butyraldehyde	2488
+247	773	dicrotophos	2488
+291	773	Arsenic Trioxide	2488
+306	773	methylmercuric chloride	2488
+369	773	Silicon Dioxide	2488
+429	773	Arsenic	2488
+433	773	potassium chromate(VI)	2488
+500	773	Aflatoxin B1	2488
+568	773	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	2488
+588	773	abrine	2488
+58	774	Methyl Methanesulfonate	5604
+104	774	Phenylmercuric Acetate	5604
+112	774	tris(1,3-dichloro-2-propyl)phosphate	5604
+141	774	Nickel	5604
+218	774	ICG 001	5604
+225	774	butyraldehyde	5604
+247	774	dicrotophos	5604
+306	774	methylmercuric chloride	5604
+369	774	Silicon Dioxide	5604
+429	774	Arsenic	5604
+433	774	potassium chromate(VI)	5604
+568	774	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	5604
+588	774	abrine	5604
+55	775	Tetrachlorodibenzodioxin	332
+58	775	Methyl Methanesulfonate	332
+218	775	ICG 001	332
+225	775	butyraldehyde	332
+247	775	dicrotophos	332
+306	775	methylmercuric chloride	332
+369	775	Silicon Dioxide	332
+433	775	potassium chromate(VI)	332
+545	775	Lead	332
+588	775	abrine	332
+58	777	Methyl Methanesulfonate	1576
+104	777	Phenylmercuric Acetate	1576
+112	777	tris(1,3-dichloro-2-propyl)phosphate	1576
+218	777	ICG 001	1576
+225	777	butyraldehyde	1576
+247	777	dicrotophos	1576
+306	777	methylmercuric chloride	1576
+429	777	Arsenic	1576
+433	777	potassium chromate(VI)	1576
+588	777	abrine	1576
+112	786	tris(1,3-dichloro-2-propyl)phosphate	3569
+218	786	ICG 001	3569
+247	786	dicrotophos	3569
+545	786	Lead	3569
+58	791	Methyl Methanesulfonate	4792
+104	791	Phenylmercuric Acetate	4792
+112	791	tris(1,3-dichloro-2-propyl)phosphate	4792
+141	791	Nickel	4792
+225	791	butyraldehyde	4792
+247	791	dicrotophos	4792
+306	791	methylmercuric chloride	4792
+429	791	Arsenic	4792
+433	791	potassium chromate(VI)	4792
+545	791	Lead	4792
+58	795	Methyl Methanesulfonate	51196
+81	795	cobaltous chloride	51196
+112	795	tris(1,3-dichloro-2-propyl)phosphate	51196
+218	795	ICG 001	51196
+225	795	butyraldehyde	51196
+247	795	dicrotophos	51196
+291	795	Arsenic Trioxide	51196
+306	795	methylmercuric chloride	51196
+369	795	Silicon Dioxide	51196
+545	795	Lead	51196
+568	795	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	51196
